@@ -1,0 +1,16 @@
+[workspace]
+resolver = "2"
+members = ["crates/pdd-core", "crates/pdd-srs", "crates/pdd-cli"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["JolBilet contributors"]
+repository = "https://github.com/satuarb/pdd-kz"
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+all = "warn"

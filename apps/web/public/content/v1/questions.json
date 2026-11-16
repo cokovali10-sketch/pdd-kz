@@ -1,0 +1,2848 @@
+{
+  "version": "500fced32dd4",
+  "questions": [
+    {
+      "id": "q_basics_01",
+      "category": "B",
+      "topicIds": [
+        "common"
+      ],
+      "text": {
+        "ru": "Что означает термин «уступить дорогу (не создавать помех)»?",
+        "kk": "«Жол беру (кедергі келтірмеу)» термині нені білдіреді?",
+        "en": "What does the term “give way (do not interfere)” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Требование не начинать движение из занимаемого положения, если это вынудит других участников движения изменить направление или скорость",
+            "kk": "Басқа қатысушылардың бағытын немесе жылдамдығын өзгертуге мәжбүрлемеу үшін алынған орыннан қозғалмау талабы",
+            "en": "A requirement not to start moving from your position if that would force another road user to change direction or speed"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Требование полностью остановиться перед любым перекрёстком",
+            "kk": "Кез келген қиылыстан бұрын толық тоқтау талабы",
+            "en": "A requirement to come to a complete stop before any intersection"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Требование проехать первым, включив аварийную сигнализацию",
+            "kk": "Апастық сигналдауды қосып, бірінші болып өту талабы",
+            "en": "A requirement to go first with hazard lights switched on"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "«Уступить дорогу» — значит не создавать помех: не начинать, не продолжать и не возобновлять движение, если это вынудит другого участника изменить направление или скорость.",
+        "kk": "«Жол беру» — кедергі келтірмеу: басқа қатысушыға бағытын немесе жылдамдығын өзгертуге мәжбүрлемеу.",
+        "en": "“Give way” means not creating interference: do not start, continue or resume manoeuvring if it forces another road user to change direction or speed."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "1",
+          "point": "1.2"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "terms"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_02",
+      "category": "B",
+      "topicIds": [
+        "common",
+        "parking"
+      ],
+      "text": {
+        "ru": "Чем «остановка» отличается от «стоянки»?",
+        "kk": "«Тоқтау» мен «тұрақ» қалай ерекшеленеді?",
+        "en": "How does a “stop” differ from “parking”?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Остановка — преднамеренное прекращение движения до 5 минут или дольше для посадки, высадки, погрузки или разгрузки; стоянка — более 5 минут, не связанное с этими действиями",
+            "kk": "Тоқтау — 5 минутқа дейін немесе одан көп, отырғызу, түсіру, жүктеу, түсіру мақсатындағы әдейі тоқтау; тұрақ — осы әрекеттермен байланысты емес, 5 минуттан асатын тоқтау",
+            "en": "A stop is a deliberate halt of up to 5 minutes, or longer for boarding, alighting, loading or unloading; parking is a halt longer than 5 minutes not connected with those actions"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Остановка — это стоянка до 30 минут, а стоянка — от 30 минут и дольше",
+            "kk": "Тоқтау — 30 минутқа дейінгі тұрақ, ал тұрақ — 30 минуттан кейін",
+            "en": "A stop is parking for up to 30 minutes, parking is 30 minutes or more"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Разницы нет: это одно и то же",
+            "kk": "Айырмашылығы жоқ: бұл — бір нәрсе",
+            "en": "There is no difference: they are the same thing"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Ключ — причина прекращения движения. Посадка и высадка пассажиров, погрузка и разгрузка — это остановка, даже если это заняло больше 5 минут. Всё остальное дольше 5 минут — стоянка.",
+        "kk": "Негізгі белгі — қозғалысты тоқтату себебі. Жолаушыларды отырғызу-түсіру, жүктеу-түсіру — 5 минуттан асса да тоқтау болып табылады. Қалғандары — тұрақ.",
+        "en": "The key is the reason for stopping. Boarding or alighting passengers and loading or unloading count as a stop even if longer than 5 minutes. Anything else longer than 5 minutes is parking."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "1",
+          "point": "1.2"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "terms",
+        "parking"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_03",
+      "category": "B",
+      "topicIds": [
+        "common"
+      ],
+      "text": {
+        "ru": "Кто считается водителем транспортного средства?",
+        "kk": "Көлік құралының жүргізушісі деп кім есептеледі?",
+        "en": "Who is considered the driver of a vehicle?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Только лицо, имеющее водительское удостоверение",
+            "kk": "Тек жүргізуші куәлігі бар адам",
+            "en": "Only a person holding a driving licence"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Лицо, управляющее транспортным средством, в том числе обучающий вождению",
+            "kk": "Көлік құралын басқарып отырған адам, оның ішінде жүргізуді үйретіп жүрген адам",
+            "en": "A person driving a vehicle, including a person teaching someone to drive"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Только собственник транспортного средства",
+            "kk": "Тек көлік құралының иесі",
+            "en": "Only the owner of the vehicle"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Водитель — это тот, кто управляет транспортным средством. Обучающий вождению считается водителем, если находится в автомобиле и имеет право на обучение.",
+        "kk": "Жүргізуші — көлік құралын басқарып отырған адам. Жүргізуді үйретуші де, көлікте отырып, үйрету құқығы болса, жүргізуші болып есептеледі.",
+        "en": "A driver is a person driving the vehicle. An instructor counts as a driver when in the vehicle with a valid teaching authorisation."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "1",
+          "point": "1.2"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "terms"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_04",
+      "category": "B",
+      "topicIds": [
+        "common"
+      ],
+      "text": {
+        "ru": "Что такое «разрешённая максимальная масса» транспортного средства?",
+        "kk": "«Рұқсат етілген максималды масса» деген не?",
+        "en": "What is the “permitted maximum mass” of a vehicle?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Масса снаряжённого транспортного средства без груза, водителя и пассажиров",
+            "kk": "Жүксіз, жүргізушісіз және жолаушысыз дайын көлік құралының массасы",
+            "en": "The mass of the vehicle with no load, driver or passengers"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Масса транспортного средства с грузом, водителем и пассажирами, установленная производителем как максимально допустимая",
+            "kk": "Жүкпен, жүргізушімен және жолаушылармен, өндіруші белгілеген рұқсат етілген ең жоғарғы масса",
+            "en": "The mass of the vehicle with load, driver and passengers that the manufacturer sets as the maximum allowed"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Масса только груза, перевозимого в транспортном средстве",
+            "kk": "Тек көлікте тасымалданатын жүктің массасы",
+            "en": "Only the mass of the cargo carried in the vehicle"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Разрешённая максимальная масса — это наибольшая масса полностью снаряжённого и загруженного транспортного средства, указанная изготовителем.",
+        "kk": "Рұқсат етілген максималды масса — толық жабдықталған және жүктелген көліктің өндіруші көрсеткен ең үлкен массасы.",
+        "en": "Permitted maximum mass is the heaviest fully equipped and loaded vehicle mass stated by the manufacturer."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "1",
+          "point": "1.2"
+        }
+      ],
+      "difficulty": 2,
+      "tags": [
+        "terms"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_05",
+      "category": "B",
+      "topicIds": [
+        "documents"
+      ],
+      "text": {
+        "ru": "Какие документы водитель обязан иметь при себе и передавать для проверки?",
+        "kk": "Жүргізуші қандай құжаттарды өзімен ұстап, тексеруге тапсыруға міндетті?",
+        "en": "Which documents must the driver carry and hand over for inspection?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Только водительское удостоверение",
+            "kk": "Тек жүргізуші куәлігі",
+            "en": "Only the driving licence"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Водительское удостоверение, свидетельство о регистрации транспортного средства и страховку (полис ОСГПО ВТС)",
+            "kk": "Жүргізуші куәлігі, көлікті тіркеу туралы куәлік және сақтандыру (ОСГПО полисі)",
+            "en": "Driving licence, vehicle registration certificate and insurance (compulsory motor TPL policy)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Достаточно электронного водительского удостоверения в телефоне, документы возить не нужно",
+            "kk": "Телефондағы электронды жүргізуші куәлігі жеткілікті, құжаттарды алып жүрудің қажеті жоқ",
+            "en": "An electronic driving licence in a phone is enough, no paper documents are needed"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Водитель обязан иметь при себе водительское удостоверение, свидетельство о регистрации ТС и страховой полис. Электронный документ не заменяет бумажный, если он не предусмотрен отдельно.",
+        "kk": "Жүргізуші жүргізуші куәлігін, көлікті тіркеу куәлігін және сақтандыру полисін өзімен ұстауы керек. Электронды құжат бөлек көзделмесе, қағаз құжатын алмайды.",
+        "en": "The driver must carry the driving licence, the vehicle registration certificate and the insurance policy. An electronic document does not replace the paper one unless separately provided for."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "2",
+          "point": "2.1"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "documents"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_06",
+      "category": "B",
+      "topicIds": [
+        "safety",
+        "traffic-lights"
+      ],
+      "text": {
+        "ru": "В каких случаях требуется включать аварийную сигнализацию?",
+        "kk": "Қандай жағдайда апастық сигналдауды қосу керек?",
+        "en": "When must hazard warning lights be switched on?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Только при ДТП",
+            "kk": "Тек жол-көлік оқиғасында",
+            "en": "Only after a road traffic accident"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "При ДТП, при вынужденной остановке в местах с ограниченной видимостью, при ослеплении светом встречного автомобиля и при буксировке",
+            "kk": "ЖКО-да, көріну нашар жерлерде мәжбүрлі тоқтағанда, қарсы көліктің жарығынан көзі шақшағанда және сүйреу кезінде",
+            "en": "After a collision, at a forced stop where visibility is limited, when dazzled by oncoming headlights, and while towing"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Только при остановке в неположенном месте",
+            "kk": "Тек тиым салынган жерде тоқтағанда",
+            "en": "Only when stopping in a prohibited place"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Аварийная сигнализация предупреждает других участников об опасности: ДТП, вынужденная остановка там, где плохо видно, ослепление, буксировка, а также при посадке детей-инвалидов.",
+        "kk": "Апастық сигналдау басқа қатысушыларды қауіп туралы ескертеді: ЖКО, нашар көрініп тұрған жерде мәжбүрлі тоқтау, көздің шақшуы, сүйреу, сондай-ақ мүгедек балаларды отырғызу.",
+        "en": "Hazard lights warn other road users of danger: a collision, a forced stop where visibility is poor, being dazzled, towing, and when boarding disabled children."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "7",
+          "point": "7.1"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "safety",
+        "signalling"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_07",
+      "category": "B",
+      "topicIds": [
+        "safety"
+      ],
+      "text": {
+        "ru": "Кто в легковом автомобиле обязан быть пристёгнутым ремнями безопасности?",
+        "kk": "Жеңіл автомобильде қауіпсіздік белдігін кім тағуы міндетті?",
+        "en": "Who in a passenger car must wear a seat belt?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Только водитель",
+            "kk": "Тек жүргізуші",
+            "en": "Only the driver"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Водитель и все пассажиры, включая задние сиденья",
+            "kk": "Жүргізуші және барлық жолаушылар, артқы орындарды қоса",
+            "en": "The driver and all passengers, including those in the rear seats"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Только пассажиры переднего сиденья",
+            "kk": "Тек алдыңғы орын жолаушылары",
+            "en": "Only front-seat passengers"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Ремнем пристёгиваются все находящиеся в автомобиле, в том числе на заднем сиденье. Исключения — только для отдельных категорий (например, транспорт оперативных служб).",
+        "kk": "Автомобильдегі барлық адам белдікпен тағынуы керек, артқы орынды қоса. Тек жекелеген санаттарға (мысалы, жедел қызметтер көлігі) ескерту жасалған.",
+        "en": "Everyone in the car wears a belt, including rear seats. Exceptions exist only for specific categories such as emergency service vehicles."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "2",
+          "point": "2.1"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "safety",
+        "belts"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_basics_08",
+      "category": "B",
+      "topicIds": [
+        "safety"
+      ],
+      "text": {
+        "ru": "Как перевозить ребёнка в возрасте до 7 лет в легковом автомобиле?",
+        "kk": "Жеңіл автомобильде 7 жасқа дейінгі баланы қалай тасымалдау керек?",
+        "en": "How must a child under 7 be carried in a passenger car?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "На руках у взрослого пассажира",
+            "kk": "Ересек жолаушының қолында",
+            "en": "On an adult passenger's lap"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Только с использованием детского удерживающего устройства (автолюльки или детского кресла)",
+            "kk": "Тек балалар ұстау құрылғысын (автобеcік немесе балалар креслосы) пайдалану арқылы",
+            "en": "Only using a child restraint system (infant carrier or child seat)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Достаточно пристегнуть обычным ремнём на переднем сиденье",
+            "kk": "Алдыңғы орында қалыпты белдікпен тағу жеткілікті",
+            "en": "An ordinary belt on the front seat is enough"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Детей до 7 лет перевозят только в детском удерживающем устройстве, подобранном по весу и росту. Держать ребёнка на руках или пристёгивать штатным ремнём недопустимо.",
+        "kk": "7 жасқа дейінгі балаларды тек салмағы мен бойына сәйкес балалар ұстау құрылғысында тасымалдайды. Қолына ұстау немесе қалыпты белдікпен тағуға болмайды.",
+        "en": "Children under 7 travel only in a child restraint matched to their weight and height. Holding them on a lap or using only the standard belt is not allowed."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "22",
+          "point": "22.9"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "safety",
+        "children"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_01",
+      "category": "B",
+      "topicIds": [
+        "speed"
+      ],
+      "text": {
+        "ru": "С какой максимальной скоростью разрешено движение легковых автомобилей в населённых пунктах?",
+        "kk": "Елді мекендерде жеңіл автомобильдер қандай ең жоғарғы жылдамдықпен жүре алады?",
+        "en": "What is the maximum permitted speed for passenger cars in built-up areas?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "40 км/ч",
+            "kk": "40 км/сағ",
+            "en": "40 km/h"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "60 км/ч",
+            "kk": "60 км/сағ",
+            "en": "60 km/h"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "80 км/ч",
+            "kk": "80 км/сағ",
+            "en": "80 km/h"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "В населённых пунктах по умолчанию действует 60 км/ч, если знаки или иные правила не устанавливают другую скорость.",
+        "kk": "Елді мекендерде әдепкі бойынша 60 км/сағ, егер белгілер немесе басқа ережелер басқа жылдамдық белгілемесе.",
+        "en": "In built-up areas the default limit is 60 km/h unless signs or other rules set a different limit."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "10",
+          "point": "10.2"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "speed"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_02",
+      "category": "B",
+      "topicIds": [
+        "speed"
+      ],
+      "text": {
+        "ru": "С какой максимальной скоростью разрешено движение вне населённых пунктов для легковых автомобилей?",
+        "kk": "Елді мекеннен тыс жеңіл автомобильдер қандай жылдамдықпен жүре алады?",
+        "en": "What is the maximum speed for passenger cars outside built-up areas?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "70 км/ч",
+            "kk": "70 км/сағ",
+            "en": "70 km/h"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "90 км/ч",
+            "kk": "90 км/сағ",
+            "en": "90 km/h"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "110 км/ч",
+            "kk": "110 км/сағ",
+            "en": "110 km/h"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Вне населённых пунктов для легковых автомобилей и грузовиков до 3,5 т действует 90 км/ч, если дорога не автомагистраль.",
+        "kk": "Елді мекеннен тыс жеңіл автомобильдер мен 3,5 тоннаға дейінгі жүк көліктері үшін 90 км/сағ, жол автомагистраль болмаса.",
+        "en": "Outside built-up areas the limit for passenger cars and trucks up to 3.5 t is 90 km/h, unless the road is a motorway."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "10",
+          "point": "10.3"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "speed"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_03",
+      "category": "B",
+      "topicIds": [
+        "speed"
+      ],
+      "text": {
+        "ru": "Какова максимальная и минимальная скорость на автомагистрали для легкового автомобиля?",
+        "kk": "Автомагистральда жеңіл автомобиль үшін ең жоғарғы және ең төмен жылдамдық қандай?",
+        "en": "What are the maximum and minimum speeds for a passenger car on a motorway?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Максимум 110 км/ч, минимум 40 км/ч",
+            "kk": "Ең көбі 110 км/сағ, ең азы 40 км/сағ",
+            "en": "Maximum 110 km/h, minimum 40 km/h"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Максимум 130 км/ч, минимум 60 км/ч",
+            "kk": "Ең көбі 130 км/сағ, ең азы 60 км/сағ",
+            "en": "Maximum 130 km/h, minimum 60 km/h"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Максимум 100 км/ч, минимум 30 км/ч",
+            "kk": "Ең көбі 100 км/сағ, ең азы 30 км/сағ",
+            "en": "Maximum 100 km/h, minimum 30 km/h"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "На автомагистралях разрешено до 110 км/ч (для легковых), но не медленнее 40 км/ч: медленное движение там опасно и запрещено.",
+        "kk": "Автомагистральда жеңіл көлікке 110 км/сағ дейін рұқсат, бірақ 40 км/сағ-тан баяу жүруге болмайды.",
+        "en": "Motorways allow up to 110 km/h for cars, but not slower than 40 km/h: slow driving there is dangerous and prohibited."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "10",
+          "point": "10.3"
+        }
+      ],
+      "difficulty": 2,
+      "tags": [
+        "speed",
+        "motorway"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_04",
+      "category": "B",
+      "topicIds": [
+        "speed"
+      ],
+      "text": {
+        "ru": "С какой скоростью разрешено движение при буксировке механическим транспортным средством?",
+        "kk": "Механикалық көлікпен сүйреу кезінде қандай жылдамдықпен жүруге болады?",
+        "en": "What is the maximum speed when towing a mechanically propelled vehicle?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "30 км/ч",
+            "kk": "30 км/сағ",
+            "en": "30 km/h"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "50 км/ч",
+            "kk": "50 км/сағ",
+            "en": "50 km/h"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "70 км/ч",
+            "kk": "70 км/сағ",
+            "en": "70 km/h"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "При буксировке скорость не должна превышать 50 км/ч — независимо от того, где происходит движение.",
+        "kk": "Сүйреу кезінде жылдамдық 50 км/сағ-тан аспуы керек — қай жерде жүргеніне қарамастан.",
+        "en": "When towing, speed must not exceed 50 km/h regardless of where the driving takes place."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "20"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "speed",
+        "towing"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_05",
+      "category": "B",
+      "topicIds": [
+        "traffic-lights"
+      ],
+      "text": {
+        "ru": "Что означает мигающий жёлтый сигнал светофора?",
+        "kk": "Жарық саны жарық бұлдырғанда жёлтый сигнал нені білдіреді?",
+        "en": "What does a flashing yellow traffic light signal mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Движение запрещено, нужно остановиться",
+            "kk": "Қозғалысқа тыйым салынады, тоқтау керек",
+            "en": "Movement is prohibited, you must stop"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Движение разрешено, но требуется особая осторожность",
+            "kk": "Қозғалысқа рұқсат, бірақ ерекше сақтық қажет",
+            "en": "Movement is allowed, but extra caution is required"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Светофор неисправен, движение полностью запрещено",
+            "kk": "Жарық саны істен шыққан, қозғалыс толық тоқтатылған",
+            "en": "The light is out of order, movement is fully prohibited"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Мигающий жёлтый не запрещает движение: он предупреждает об опасности — перекрёсток не регулируется или впереди особый участок.",
+        "kk": "Жарық бұлдырған жёлтый қозғалысты тыйымдамайды: қауіп туралы ескертеді — қиылыс реттелмейді немесе алда ерекше учаске.",
+        "en": "Flashing yellow does not prohibit movement: it warns of danger — the junction is unsignalised or an unusual section lies ahead."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "6"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signals"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_06",
+      "category": "B",
+      "topicIds": [
+        "traffic-lights"
+      ],
+      "text": {
+        "ru": "Что означает сигнал регулировщика — поднятая вверх рука?",
+        "kk": "Жол полициясы қызметкері қолын жоғары көтергенде ол нені білдіреді?",
+        "en": "What does a traffic officer's raised arm mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Разрешено движение только прямо",
+            "kk": "Тек тура қозғалысқа рұқсат",
+            "en": "Only straight-ahead movement is allowed"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Движение всех транспортных средств и пешеходов запрещено",
+            "kk": "Барлық көлік пен жаяу жүргіншілерге қозғалыс тыйым салынады",
+            "en": "Movement of all vehicles and pedestrians is prohibited"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Разрешено движение только трамваю",
+            "kk": "Тек трамвайға қозғалысқа рұқсат",
+            "en": "Only trams may move"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Поднятая вверх рука — сигнал «внимание, всем стоять»: движение всех транспортных средств и пешеходов запрещено, кроме трамвая, который уже не может остановиться.",
+        "kk": "Жоғары көтерілген қол — «назар аудар, бәрі тоқта»: барлық көлік пен жаяу жүргіншілерге тыйым, трамвайдан басқа.",
+        "en": "A raised arm means “attention, everyone stop”: all vehicles and pedestrians must stop, except a tram that cannot brake in time."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "6"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signals",
+        "officer"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_07",
+      "category": "B",
+      "topicIds": [
+        "traffic-lights"
+      ],
+      "text": {
+        "ru": "Зелёный сигнал светофора разрешает движение. Что ещё нужно учесть?",
+        "kk": "Жарық саны жасыл сигналы қозғалысқа рұқсат етеді. Тағы нені ескеру керек?",
+        "en": "A green light allows movement. What else must be considered?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Ничего: зелёный сигнал означает, что можно ехать не глядя",
+            "kk": "Ештеңе: жасыл — қарамай жүре беруге болады",
+            "en": "Nothing: a green light means you can drive without looking"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Нужно уступить дорогу пешеходам и транспортным средствам, завершающим движение через перекрёсток",
+            "kk": "Қиылыстан өтіп жатқан жаяу жүргіншілер мен көліктерге жол беру керек",
+            "en": "You must give way to pedestrians and vehicles finishing their crossing of the junction"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Нужно остановиться на 3 секунды",
+            "kk": "3 секунд тоқтау керек",
+            "en": "You must stop for 3 seconds"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Зелёный сигнал разрешает движение, но не отменяет обязанности уступить тем, кто уже находится на перекрёстке, и пешеходам.",
+        "kk": "Жасыл сигнал қозғалысқа рұқсат етеді, бірақ қиылыста тұрғандарға және жаяу жүргіншілерге жол беру міндетін алып тастамайды.",
+        "en": "Green allows movement but does not cancel the duty to give way to those already in the junction and to pedestrians."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "6"
+        },
+        {
+          "chapter": "13"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signals"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_08",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Два автомобиля подъезжают к перекрёстку равнозначных дорог. Кто проедет первым?",
+        "kk": "Тең дәрежелі жол қилысына екі көлік келеді. Кім бірінші өтеді?",
+        "en": "Two cars approach an intersection of equal-priority roads. Who goes first?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Тот, кто справа от другого — водитель должен уступить помехе справа",
+            "kk": "Басқадан оңда тұрған — оңнан келген кедергіге жол беру керек",
+            "en": "The one that has the other on its right — give way to the right"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Тот, кто движется прямо",
+            "kk": "Тура жүріп келе жатқан",
+            "en": "The one driving straight ahead"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Тот, у кого скорость выше",
+            "kk": "Жылдамдығы жоғары",
+            "en": "The faster one"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "На перекрёстке равнозначных дорог действует правило «помеха справа»: уступить нужно тому транспортному средству, которое находится справа.",
+        "kk": "Тең дәрежелі қиылыста «оңнан кедергі» ережесі жұмыс істейді: оңда тұрған көлікке жол беру керек.",
+        "en": "At an equal-priority junction the “give way to the right” rule applies: yield to the vehicle on your right."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "difficulty": 2,
+      "tags": [
+        "priority",
+        "intersection"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_09",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "При повороте налево на перекрёстке кому нужно уступить дорогу?",
+        "kk": "Қиылыста солға бұрылғанда кімге жол беру керек?",
+        "en": "When turning left at a junction, who must you give way to?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Транспортным средствам, движущимся навстречу прямо или направо",
+            "kk": "Қарсы, тура немесе оңға келе жатқан көліктерге",
+            "en": "Vehicles coming towards you going straight ahead or turning right"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Только трамваю",
+            "kk": "Тек трамвайға",
+            "en": "Only to trams"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Никому, если горит зелёный",
+            "kk": "Жасыл жанып тұрса, ешкімге",
+            "en": "To nobody, if the light is green"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "При повороте налево водитель обязан уступить встречным транспортным средствам, движущимся прямо или направо — траектории пересекаются.",
+        "kk": "Солға бұрылғанда жүргізуші қарсы келе жатқан, тура немесе оңға бұрылатын көліктерге жол беруге міндетті.",
+        "en": "When turning left, the driver must give way to oncoming vehicles going straight ahead or turning right, since paths cross."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "priority",
+        "intersection",
+        "turn"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_10",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Вы выезжаете из жилого двора на дорогу. Кому нужно уступить?",
+        "kk": "Тұрғын үй ауласынан жолға шығасыз. Кімге жол беру керек?",
+        "en": "You are leaving a residential yard onto a road. Who must you give way to?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Всем транспортным средствам и пешеходам, движущимся по дороге",
+            "kk": "Жолмен келе жатқан барлық көлік пен жаяу жүргіншілерге",
+            "en": "All vehicles and pedestrians moving along the road"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Только тем, кто движется справа",
+            "kk": "Тек оңнан келе жатқандарға",
+            "en": "Only those coming from the right"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Никому — двор является частью дороги",
+            "kk": "Ешкімге — аула жолдың бөлігі",
+            "en": "To nobody — a yard is part of the road"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "При выезде с прилегающей территории (двор, АЗС, парковка) водитель уступает дорогу всем, кто движется по основной дороге — пешеходам в том числе.",
+        "kk": "І прилегающий территориядан (аула, АЗС, тұрақ) шыққанда жүргізуші негізгі жолмен келе жатқандарға, жаяу жүргіншілерді қоса, жол береді.",
+        "en": "When leaving an adjoining area (yard, filling station, car park) the driver yields to everyone on the main road, pedestrians included."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "priority",
+        "intersection",
+        "yard"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_11",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Вы въезжаете на перекрёсток с круговым движением. Кто имеет преимущество?",
+        "kk": "Айналма қозғалысты қиылысқа кіресіз. Кімнің артықшылығы бар?",
+        "en": "You are entering a roundabout. Who has priority?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Автомобили, уже движущиеся по кругу — вы уступаете",
+            "kk": "Айналымда келе жатқан көліктер — сіз жол бересіз",
+            "en": "Vehicles already on the roundabout — you give way"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Вы, потому что вы въезжаете первым",
+            "kk": "Сіз, өйткені бірінші кіріп келесіз",
+            "en": "You, because you are entering first"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Всегда трамвай",
+            "kk": "Әрқашан трамвай",
+            "en": "Always the tram"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "По умолчанию на круговом движении преимущество у тех, кто уже едет по кругу: въезжающий уступает. Если знаки приоритета установили иной порядок — следуйте знакам.",
+        "kk": "Әдепкі бойынша айналымда артықшылық айналып келе жатқандарда: кіруші жол береді. Артықшылық белгісі басқаша белгілесе — белгіге салыңыз.",
+        "en": "By default, traffic already on the roundabout has priority and you give way when entering. If priority signs set a different order, follow the signs."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "priority",
+        "roundabout"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_12",
+      "category": "B",
+      "topicIds": [
+        "overtaking"
+      ],
+      "text": {
+        "ru": "Можно ли обгонять автомобиль на пешеходном переходе?",
+        "kk": "Жаяу жүргіншілер өткелінде көлікті жағалай айналып өтуге бола ма?",
+        "en": "May you overtake a vehicle on a pedestrian crossing?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Да, если нет пешеходов",
+            "kk": "Иә, жаяу жүргінші болмаса",
+            "en": "Yes, if no pedestrians are present"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Нет, обгон на пешеходном переходе запрещён",
+            "kk": "Жоқ, жаяу жүргіншілер өткелінде жағалай айналып өтуге тыйым салынады",
+            "en": "No, overtaking on a pedestrian crossing is prohibited"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Да, на скорости до 30 км/ч",
+            "kk": "Иә, 30 км/сағ жылдамдықка дейін",
+            "en": "Yes, at up to 30 km/h"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Обгон на пешеходном переходе запрещён всегда — даже если пешеходов нет. Обгоняемый автомобиль может закрывать обзор, а из-за него может появиться пешеход.",
+        "kk": "Жаяу жүргіншілер өткелінде жағалай айналып өту әрқашан тыйым — жаяу жүргінші болмаса да. Көріністі көлік жабады, одан кейін жаяу шығуы мүмкін.",
+        "en": "Overtaking on a pedestrian crossing is always prohibited — even with no pedestrians. The overtaken vehicle blocks your view and a pedestrian may appear behind it."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "11"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "overtaking",
+        "crossing"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_13",
+      "category": "B",
+      "topicIds": [
+        "overtaking",
+        "intersection"
+      ],
+      "text": {
+        "ru": "Где обгон запрещён?",
+        "kk": "Қай жерде жағалай айналып өтуге тыйым салынады?",
+        "en": "Where is overtaking prohibited?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Только на мостах",
+            "kk": "Тек көпірлерде",
+            "en": "Only on bridges"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "На регулируемых и неравнозначных перекрёстках, пешеходных переходах, в тоннелях, на подъёмах с ограниченной видимостью",
+            "kk": "Реттелетін және тең дәрежелі емес қиылыстарда, өткелдерде, тоннельдерде, көріну шектелген өрлерде",
+            "en": "At signalised and non-equal junctions, on pedestrian crossings, in tunnels, on crests with limited visibility"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Обгон разрешён везде, кроме автомагистралей",
+            "kk": "Автомагистральдан басқа жерде жағалай айналып өтуге рұқсат",
+            "en": "Overtaking is allowed everywhere except motorways"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Обгон запрещён на перекрёстках (кроме равнозначных в отдельных случаях), пешеходных переходах, в тоннелях, на мостах, путепроводах, ж/д переездах и в конце подъёма.",
+        "kk": "Жағалай айналып өту қиылыстарда, өткелдерде, тоннельдерде, көпірлерде, темір жол өткелдерінде және өр соңында тыйым.",
+        "en": "Overtaking is prohibited at junctions (except certain equal-priority cases), pedestrian crossings, tunnels, bridges, overpasses, railway crossings and at the crest of a hill."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "11"
+        }
+      ],
+      "difficulty": 2,
+      "tags": [
+        "overtaking"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_14",
+      "category": "B",
+      "topicIds": [
+        "pedestrians"
+      ],
+      "text": {
+        "ru": "Пешеход начал переходить дорогу по нерегулируемому переходу. Ваши действия?",
+        "kk": "Жаяу жүргінші реттелмейтін өткелмен жолды өтпек. Сіздің әрекетіңіз?",
+        "en": "A pedestrian starts crossing at an unsignalised crossing. What do you do?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Уступить дорогу и пропустить пешехода",
+            "kk": "Жол беріп, жаяуды өткізіп жіберу",
+            "en": "Give way and let the pedestrian cross"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Продолжить движение, если пешеход далеко",
+            "kk": "Жаяу алыс болса, жүре беру",
+            "en": "Keep going if the pedestrian is far away"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Подать звуковой сигнал и проехать",
+            "kk": "Дыбыстық сигнал беріп, өтіп кету",
+            "en": "Sound the horn and drive through"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "На нерегулируемом пешеходном переходе пешеход имеет преимущество: водитель обязан уступить дорогу и не создавать помех.",
+        "kk": "Реттелмейтін өткелде жаяудың артықшылығы бар: жүргізуші жол беруге және кедергі келтірмеуге міндетті.",
+        "en": "At an unsignalised crossing pedestrians have priority: the driver must give way and not interfere."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "14"
+        },
+        {
+          "chapter": "4"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "pedestrians"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_15",
+      "category": "B",
+      "topicIds": [
+        "pedestrians"
+      ],
+      "text": {
+        "ru": "Обязан ли пешеход носить световозвращающий элемент в тёмное время суток вне населённого пункта?",
+        "kk": "Елді мекеннен тыс қараңғы уақытта жаяу жүргінші жарық шағылыстырғыш элемент киюге міндетті ме?",
+        "en": "Must a pedestrian wear a retroreflective element at night outside built-up areas?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Да, это обязательно",
+            "kk": "Иә, бұл міндетті",
+            "en": "Yes, it is mandatory"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Нет, это только рекомендация",
+            "kk": "Жоқ, бұл тек ұсыныс",
+            "en": "No, it is only a recommendation"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Только в дождливую погоду",
+            "kk": "Тек жаңбырлы ауа райында",
+            "en": "Only in rainy weather"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Вне населённых пунктов в тёмное время суток пешеход обязан иметь на одежде световозвращающий элемент, а при движении по обочине — идти навстречу движению транспорта.",
+        "kk": "Елді мекеннен тыс қараңғы уақытта жаяу жүргінші киімінде жарық шағылыстырғыш болуы керек, ал жол жиегімен жүргенде көлік қозғалысына қарсы жүреді.",
+        "en": "Outside built-up areas at night pedestrians must wear a retroreflective element, and when walking along the shoulder they must face oncoming traffic."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "4"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "pedestrians",
+        "visibility"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_16",
+      "category": "B",
+      "topicIds": [
+        "parking"
+      ],
+      "text": {
+        "ru": "Можно ли останавливаться ближе 5 метров перед пешеходным переходом?",
+        "kk": "Жаяу жүргіншілер өткелінен 5 метрден жақын тоқтауға бола ма?",
+        "en": "May you stop closer than 5 metres before a pedestrian crossing?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Да, если не мешаю пешеходам",
+            "kk": "Иә, жаяуларға кедергі келтірмесем",
+            "en": "Yes, as long as pedestrians are not obstructed"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Нет, остановка ближе 5 метров перед переходом запрещена",
+            "kk": "Жоқ, өткел алдында 5 метрден жақын тоқтауға тыйым салынады",
+            "en": "No, stopping closer than 5 metres before a crossing is prohibited"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Только на 10 минут",
+            "kk": "Тек 10 минутқа",
+            "en": "Only for 10 minutes"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Остановка запрещена ближе 5 м перед пешеходным переходом и на самом переходе: машина закрывает обзор и пешеходам, и водителям.",
+        "kk": "Жаяу өткелінен 5 метрден жақын және өткелдің өзінде тоқтауға тыйым: көлік көріністі жаяуларға да, жүргізушілерге де жабады.",
+        "en": "Stopping is prohibited closer than 5 m before a crossing and on the crossing itself: the car blocks visibility for both pedestrians and drivers."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "12"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "parking"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_rules_17",
+      "category": "B",
+      "topicIds": [
+        "parking"
+      ],
+      "text": {
+        "ru": "На каком расстоянии от остановки маршрутных транспортных средств запрещена стоянка?",
+        "kk": "Маршруттық көлік тоқтауынан қандай қашықтықта тұраққа тыйым салынады?",
+        "en": "How close to a bus stop is parking prohibited?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Ближе 5 метров",
+            "kk": "5 метрден жақын",
+            "en": "Closer than 5 metres"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Ближе 15 метров",
+            "kk": "15 метрден жақын",
+            "en": "Closer than 15 metres"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Ближе 30 метров",
+            "kk": "30 метрден жақын",
+            "en": "Closer than 30 metres"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Стоянка запрещена ближе 15 метров от мест остановки маршрутных транспортных средств, обозначенных разметкой или знаком, кроме посадки и высадки пассажиров.",
+        "kk": "Маршруттық көлік тоқтау орындарынан 15 метрден жақын тұраққа тыйым, жолаушыларды отырғызу-түсіруден басқа.",
+        "en": "Parking is prohibited within 15 m of a marked bus stop, except for boarding and alighting passengers."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "12"
+        }
+      ],
+      "difficulty": 1,
+      "tags": [
+        "parking"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_01",
+      "category": "B",
+      "topicIds": [
+        "signs-warning"
+      ],
+      "text": {
+        "ru": "Что означает знак 1.22 «Пешеходный переход»?",
+        "kk": "1.22 «Жаяу жүргіншілер өткелі» белгісі нені білдіреді?",
+        "en": "What does sign 1.22 “Pedestrian crossing” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Пешеходам разрешено переходить дорогу в этом месте",
+            "kk": "Осы жерде жаяу жүргіншілер жолды өте алады",
+            "en": "Pedestrians may cross the road here"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Предупреждает о приближении к пешеходному переходу, который находится вне поля зрения",
+            "kk": "Көріністен тыс жатқан жаяу өткеліне жақындағаны туралы ескертеді",
+            "en": "Warns that a pedestrian crossing outside your field of view is ahead"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Запрещает движение пешеходов",
+            "kk": "Жаяу жүргіншілерге қозғалысқа тыйым салады",
+            "en": "Prohibits pedestrian movement"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "Знак 1.22 относится к предупреждающим: он заранее предупреждает о переходе. Сам переход обозначается знаком 5.19.1 и разметкой 1.14.1.",
+        "kk": "1.22 — ескертуші белгі: өткел туралы алдын ала ескертеді. Өткелдің өзі 5.19.1 белгісімен және 1.14.1 сызықпен белгіленеді.",
+        "en": "Sign 1.22 is a warning sign: it warns of the crossing in advance. The crossing itself is marked by sign 5.19.1 and marking 1.14.1."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        }
+      ],
+      "signIds": [
+        "s_1.22"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_02",
+      "category": "B",
+      "topicIds": [
+        "signs-priority",
+        "intersection"
+      ],
+      "text": {
+        "ru": "Что означает знак 2.1 «Главная дорога»?",
+        "kk": "2.1 «Басты жол» белгісі нені білдіреді?",
+        "en": "What does sign 2.1 “Main road” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Вы находитесь на главной дороге: на перекрёстках вы имеете преимущество перед въезжающими на неё",
+            "kk": "Сіз басты жолдасыз: қиылыстарда оған кірушілерден артықшылығыңыз бар",
+            "en": "You are on the main road: you have priority at junctions over vehicles entering it"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Дорога предназначена только для глав государств",
+            "kk": "Жол тек мемлекет басшыларына арналған",
+            "en": "The road is reserved for heads of state"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "На этой дороге запрещён обгон",
+            "kk": "Бұл жолда жағалай айналып өтуге тыйым",
+            "en": "Overtaking is prohibited on this road"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "2.1 — знак приоритета: дорога с покрытием обозначается как главная, и водитель имеет преимущество на перекрёстках. Зона действия заканчивается знаком 2.3.1.",
+        "kk": "2.1 — артықшылық белгісі: жол басты деп белгіленеді, жүргізушінің қиылыстарда артықшылығы бар. Аяқталуы 2.3.1 белгісімен.",
+        "en": "2.1 is a priority sign: the road is designated main and the driver has priority at junctions. Its effect ends at sign 2.3.1."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        },
+        {
+          "chapter": "13"
+        }
+      ],
+      "signIds": [
+        "s_2.1"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs",
+        "priority"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_03",
+      "category": "B",
+      "topicIds": [
+        "signs-prohib",
+        "speed"
+      ],
+      "text": {
+        "ru": "Знак 3.24 «Ограничение 40» установлен вместе с табличкой 8.2.1. Где заканчивается зона его действия?",
+        "kk": "3.24 «Шектеу 40» белгісі 8.2.1 тақтайшасымен орнатылған. Оның әсер ету аймағы қайда аяқталады?",
+        "en": "Sign 3.24 “Limit 40” is installed with plate 8.2.1. Where does its effect end?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Через 100 метров после знака",
+            "kk": "Белгіден кейін 100 метрден соң",
+            "en": "100 metres after the sign"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "На следующем перекрёстке",
+            "kk": "Келесі қиылыста",
+            "en": "At the next junction"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Только до конца населённого пункта",
+            "kk": "Тек елді мекеннің соңына дейін",
+            "en": "Only until the end of the built-up area"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Табличка 8.2.1 задаёт зону действия: ограничение действует 100 метров после знака. Без таблички знак действует до ближайшего перекрёстка, конца населённого пункта или знака 3.25.",
+        "kk": "8.2.1 тақтайшасы әсер ету аймағын белгілейді: шектеу белгіден кейін 100 метр бойы әрекет етеді. Тақтайшасыз — ең жақын қиылысқа дейін.",
+        "en": "Plate 8.2.1 sets the zone: the limit applies for 100 metres after the sign. Without the plate it applies until the next junction, the end of the built-up area, or sign 3.25."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        }
+      ],
+      "signIds": [
+        "s_3.24",
+        "s_8.2.1"
+      ],
+      "difficulty": 2,
+      "tags": [
+        "signs",
+        "speed"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_04",
+      "category": "B",
+      "topicIds": [
+        "signs-mand"
+      ],
+      "text": {
+        "ru": "Знак 4.1.1 разрешает движение прямо и направо. Можно ли повернуть налево?",
+        "kk": "4.1.1 белгісі тура және оңға қозғалысқа рұқсат етеді. Солға бұрылуға бола ма?",
+        "en": "Sign 4.1.1 allows driving straight ahead and right. May you turn left?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Нет, движение налево запрещено",
+            "kk": "Жоқ, солға қозғалысқа тыйым",
+            "en": "No, left turns are prohibited"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Да, если нет встречных автомобилей",
+            "kk": "Иә, қарсы көлік болмаса",
+            "en": "Yes, if no oncoming traffic"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Да, но только со второй полосы",
+            "kk": "Иә, тек екінші жолақтан",
+            "en": "Yes, but only from the second lane"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "4.1.1 — предписывающий знак: разрешены только направления, указанные на знаке. Поворот налево запрещён, а разворот разрешён только если это допускает обстановка и нет запрещающих знаков.",
+        "kk": "4.1.1 — бұйырық белгі: тек белгіде көрсетілген бағыттар рұқсат. Солға бұрылуға тыйым, бұрылыс тек жағдай рұқсат етсе.",
+        "en": "4.1.1 is a mandatory sign: only the directions shown are allowed. Left turns are prohibited; a U-turn is allowed only if the situation and other signs permit it."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        }
+      ],
+      "signIds": [
+        "s_4.1.1"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs",
+        "directions"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_05",
+      "category": "B",
+      "topicIds": [
+        "signs-special",
+        "markings"
+      ],
+      "text": {
+        "ru": "Что означает знак 5.15.1 «Направления движения по полосам»?",
+        "kk": "5.15.1 «Жолақтар бойынша қозғалыс бағыттары» белгісі нені білдіреді?",
+        "en": "What does sign 5.15.1 “Directions of movement by lanes” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Указывает разрешённые направления движения по каждой полосе и запрещает поворот с полосы, где он не указан",
+            "kk": "Әр жолақта рұқсат етілген бағыттарды көрсетеді және көрсетілмеген жерден бұрылуға тыйым салады",
+            "en": "Shows permitted directions for each lane and forbids turning from a lane where it is not shown"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Разрешает движение задним ходом по полосе",
+            "kk": "Жолақпен кері жүруге рұқсат етеді",
+            "en": "Allows reversing along the lane"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Обозначает полосу для общественного транспорта",
+            "kk": "Көпшілік көлігіне арналған жолақты білдіреді",
+            "en": "Marks a lane for public transport"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Знак дублирует разметку 1.18 и показывает, откуда и куда можно ехать. Поворот налево или разворот из полосы, где он не разрешён, запрещён.",
+        "kk": "Белгі 1.18 сызығын қайталайды және қайдан, қайда жүруге болатынын көрсетеді. Рұқсат етілмеген жолақтан солға бұрылуға тыйым.",
+        "en": "The sign duplicates marking 1.18 and shows where you may go from each lane. Turning left or making a U-turn from a lane where it is not permitted is prohibited."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        },
+        {
+          "chapter": "9"
+        }
+      ],
+      "signIds": [
+        "s_5.15.1"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs",
+        "lanes"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_06",
+      "category": "B",
+      "topicIds": [
+        "signs-info",
+        "parking"
+      ],
+      "text": {
+        "ru": "Что означает знак 6.4 «Парковка (парковочное место)»?",
+        "kk": "6.4 «Тұрақ (тұрақ орны)» белгісі нені білдіреді?",
+        "en": "What does sign 6.4 “Parking” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Разрешает стоянку в этом месте",
+            "kk": "Осы жерде тұраққа рұқсат етеді",
+            "en": "Parking is permitted here"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Запрещает стоянку",
+            "kk": "Тұраққа тыйым салады",
+            "en": "Parking is prohibited"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Разрешает только платную парковку",
+            "kk": "Тек ақылы тұраққа рұқсат",
+            "en": "Paid parking only"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "6.4 — информационный знак: он обозначает место, где разрешена стоянка. Он не означает автоматически, что парковка бесплатная.",
+        "kk": "6.4 — ақпараттық белгі: тұраққа рұқсат етілген орынды білдіреді. Ол тұрақтың тегін екенін білдірмейді.",
+        "en": "6.4 is an information sign: it marks a place where parking is permitted. It does not mean parking is free."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        },
+        {
+          "chapter": "12"
+        }
+      ],
+      "signIds": [
+        "s_6.4"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs",
+        "parking"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_07",
+      "category": "B",
+      "topicIds": [
+        "signs-service"
+      ],
+      "text": {
+        "ru": "Какой сервис обозначает знак 7.1 «Пункт первой медицинской помощи»?",
+        "kk": "7.1 «Алғашқы медициналық көмек» белгісі қандай қызметті білдіреді?",
+        "en": "What service does sign 7.1 “First aid point” indicate?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Больницу со стационаром",
+            "kk": "Тұрақты емхананы",
+            "en": "A hospital with inpatient care"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Пункт первой медицинской помощи — фельдшерский пункт или медпункт без стационара",
+            "kk": "Алғашқы медициналық көмек — фельдшерлік немесе медициналық пункт, стационарсыз",
+            "en": "A first aid point — a paramedic or medical post without inpatient care"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Аптеку",
+            "kk": "Дәріхананы",
+            "en": "A pharmacy"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "7.1 обозначает пункт первой медицинской помощи: фельдшерский пункт, медпункт, где могут оказать первую помощь.",
+        "kk": "7.1 алғашқы медициналық көмек пунктін білдіреді: фельдшерлік, медициналық пункт.",
+        "en": "7.1 marks a first aid point such as a paramedic or medical post where first aid can be given."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        }
+      ],
+      "signIds": [
+        "s_7.1"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_08",
+      "category": "B",
+      "topicIds": [
+        "signs-warning"
+      ],
+      "text": {
+        "ru": "Что обозначает число 10% на знаке 1.11.1 «Крутой спуск»?",
+        "kk": "1.11.1 «Крутой құлау» белгісіндегі 10% не білдіреді?",
+        "en": "What does the number 10% on sign 1.11.1 “Steep descent” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Крутизну спуска в процентах",
+            "kk": "Құлаудың крутизнасын пайызбен",
+            "en": "The steepness of the descent in percent"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Ограничение скорости до 10 км/ч",
+            "kk": "Жылдамдықты 10 км/сағ-қа дейін шектеу",
+            "en": "A speed limit of 10 km/h"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Расстояние до опасного участка",
+            "kk": "Қауіпті учаскенинге дейінгі қашықтық",
+            "en": "The distance to the hazardous section"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Число на знаках 1.11.1 и 1.11.2 показывает крутизну спуска или подъёма в процентах. 10% означает, что дорога опускается на 10 метров на каждые 100 метров пути.",
+        "kk": "1.11.1 және 1.11.2 белгілеріндегі сан құлау не өрдің крутизнасын пайызбен көрсетеді. 10% — 100 метр жолда 10 метрге төмен.",
+        "en": "The number on signs 1.11.1 and 1.11.2 shows the gradient of the descent or ascent in percent. 10% means a drop of 10 metres per 100 metres of road."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        }
+      ],
+      "signIds": [
+        "s_1.11.1"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_09",
+      "category": "B",
+      "topicIds": [
+        "signs-special",
+        "safety"
+      ],
+      "text": {
+        "ru": "Что запрещает знак 5.1 «Автомагистраль»?",
+        "kk": "5.1 «Автомагистраль» белгісі нені тыйымдайды?",
+        "en": "What does sign 5.1 “Motorway” prohibit?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Ничего не запрещает",
+            "kk": "Ештеңе тыйымдамайды",
+            "en": "Nothing at all"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Запрещает движение пешеходов, велосипедов, мопедов, тихоходных ТС и учебную езду",
+            "kk": "Жаяу жүргіншілер, велосипедшілер, мопедтер, баяу көліктер және оқыту жүргізуге тыйым",
+            "en": "Prohibits pedestrians, bicycles, mopeds, slow vehicles and driving instruction"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Запрещает обгон",
+            "kk": "Жағалай айналып өтуге тыйым салады",
+            "en": "Prohibits overtaking"
+          }
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": {
+        "ru": "На автомагистрали запрещены движение пешеходов, велосипедов, мопедов, тракторов и других тихоходных ТС, а также учебная езда и буксировка.",
+        "kk": "Автомагистральда жаяу жүргіншілер, велосипедтер, мопедтер, тракторлар мен басқа баяу көліктердің қозғалысына тыйым, сондай-ақ оқыту жүргізуге тыйым.",
+        "en": "Motorways prohibit pedestrians, bicycles, mopeds, tractors and other slow vehicles, as well as driving instruction and towing."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "15"
+        }
+      ],
+      "signIds": [
+        "s_5.1"
+      ],
+      "difficulty": 2,
+      "tags": [
+        "signs",
+        "motorway"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_signs_10",
+      "category": "B",
+      "topicIds": [
+        "signs-prohib"
+      ],
+      "text": {
+        "ru": "Что означает знак 3.1 «Въезд запрещён»?",
+        "kk": "3.1 «Кіруге тыйым» белгісі нені білдіреді?",
+        "en": "What does sign 3.1 “No entry” mean?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Въезд всех транспортных средств запрещён, в том числе с этого направления на дорогу с односторонним движением",
+            "kk": "Барлық көлікке кіру тыйым, соның ішінде бір бағытты жолға",
+            "en": "Entry for all vehicles is prohibited, including from this direction onto a one-way road"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Разрешён въезд только маршрутным транспортным средствам",
+            "kk": "Тек маршруттық көлікке кіруге рұқсат",
+            "en": "Entry is allowed only for public transport"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Разрешён только разворот",
+            "kk": "Тек бұрылысқа рұқсат",
+            "en": "Only U-turns are allowed"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "3.1 «кирпич» полностью запрещает въезд: обычно он стоит на въезде на одностороннюю дорогу или на полосу, выделенную для маршрутных ТС, а также на прилегающую территорию.",
+        "kk": "3.1 «кірпіш» кіруге толық тыйым салады: әдетте бір бағытты жолға, маршруттық көлік жолағына кіру алдында тұрады.",
+        "en": "Sign 3.1 “brick” bans entry completely: it is usually placed at the entrance to a one-way street or a bus lane."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "8"
+        }
+      ],
+      "signIds": [
+        "s_3.1"
+      ],
+      "difficulty": 1,
+      "tags": [
+        "signs",
+        "prohibitory"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_01",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Перекрёсток равнозначных дорог. Автомобиль A подъезжает с юга, автомобиль B — с востока. Кто проедет первым?",
+        "kk": "Тең дәрежелі жол қиылысы. A автомобильі оңтүстіктен, B шығыстан келеді. Кім бірінші өтеді?",
+        "en": "Junction of equal-priority roads. Car A approaches from the south, car B from the east. Who goes first?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Автомобиль B — он справа от A",
+            "kk": "B — A-ның оңында",
+            "en": "Car B — it is on A's right"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Автомобиль A — он движется первым",
+            "kk": "A — ол бірінші қозғалды",
+            "en": "Car A — it moved first"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Одновременно",
+            "kk": "Бір уақытта",
+            "en": "At the same time"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Дороги равнозначны, значит действует правило «помеха справа». Для A справа находится B — A уступает.",
+        "kk": "Жолдар тең дәрежелі, демек «оңнан кедергі» ережесі жұмыс істейді. A үшін оңда B тұр — A жол береді.",
+        "en": "The roads have equal priority, so “give way to the right” applies. B is on A's right, so A gives way."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "diagram": {
+        "type": "cross",
+        "arms": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ],
+        "vehicles": [
+          {
+            "id": "A",
+            "arm": "s",
+            "pos": 0.42,
+            "turn": "straight",
+            "kind": "car"
+          },
+          {
+            "id": "B",
+            "arm": "e",
+            "pos": 0.42,
+            "turn": "straight",
+            "kind": "car"
+          }
+        ],
+        "caption": {
+          "ru": "Равнозначный перекрёсток",
+          "kk": "Тең дәрежелі қиылыс",
+          "en": "Equal-priority junction"
+        }
+      },
+      "difficulty": 2,
+      "tags": [
+        "priority",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_02",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Перекрёсток равнозначных дорог. A поворачивает налево, B движется навстречу прямо. Кому уступить?",
+        "kk": "Тең дәрежелі қиылыс. A солға бұрылады, B қарсы тура жүреді. Кімге жол беру керек?",
+        "en": "Junction of equal roads. A turns left, B goes straight towards you. Who must give way?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "A уступает B: при повороте налево нужно пропустить встречные",
+            "kk": "A B-ге жол береді: солға бұрылғанда қарсыларды өткізу керек",
+            "en": "A gives way to B: when turning left you must let oncoming traffic through"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "B уступает A",
+            "kk": "B A-ға жол береді",
+            "en": "B gives way to A"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "У кого первым включился поворотник",
+            "kk": "Кім бірінші бұрылыс сигналын қосса",
+            "en": "Whoever signalled first"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Трамектории пересекаются: A, поворачивая налево, обязан уступить встречному B, который едет прямо.",
+        "kk": "Траекториялар қиылысады: A солға бұрылғанда қарсы келе жатқан B-ге жол беруге міндетті.",
+        "en": "The paths cross: while turning left A must give way to oncoming B going straight ahead."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "diagram": {
+        "type": "cross",
+        "arms": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ],
+        "vehicles": [
+          {
+            "id": "A",
+            "arm": "s",
+            "pos": 0.34,
+            "turn": "left",
+            "kind": "car"
+          },
+          {
+            "id": "B",
+            "arm": "n",
+            "pos": 0.5,
+            "turn": "straight",
+            "kind": "car"
+          }
+        ],
+        "caption": {
+          "ru": "Поворот налево",
+          "kk": "Солға бұрылыс",
+          "en": "Left turn"
+        }
+      },
+      "difficulty": 1,
+      "tags": [
+        "priority",
+        "diagram",
+        "turn"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_03",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Вы въезжаете на перекрёсток с круговым движением, по которому уже движется автомобиль. Кому уступить?",
+        "kk": "Сіз айналма қозғалысты қиылысқа кіресіз, оның бойымен көлік келе жатыр. Кімге жол беру керек?",
+        "en": "You enter a roundabout where a car is already circulating. Who must give way?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Вам: автомобиль на круге имеет преимущество",
+            "kk": "Сізге: айналымдағы көліктің артықшылығы бар",
+            "en": "You: the car on the roundabout has priority"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Автомобилю на круге: вы въезжаете первым",
+            "kk": "Айналымдағы көлікке: сіз бірінші кіресіз",
+            "en": "The car on the roundabout: you are entering first"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Никто, если на круге нет знаков приоритета",
+            "kk": "Ешкім, айналымда артықшылық белгісі болмаса",
+            "en": "Nobody, if there are no priority signs"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "По общему правилу въезжающий на круг уступает тем, кто уже движется по кругу. Знаки приоритета могут изменить этот порядок — тогда действуют знаки.",
+        "kk": "Жалпы ереже бойынша айналымға кіруші айналып келе жатқандарға жол береді. Артықшылық белгісі бұл тәртіпті өзгертуі мүмкін.",
+        "en": "Under the general rule the entering driver yields to traffic already on the roundabout. Priority signs can change this — then the signs apply."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "diagram": {
+        "type": "roundabout",
+        "vehicles": [
+          {
+            "id": "YOU",
+            "arm": "s",
+            "pos": 0.3,
+            "kind": "car"
+          },
+          {
+            "id": "B",
+            "arm": "w",
+            "pos": 0.1,
+            "kind": "car",
+            "onCircle": true
+          }
+        ],
+        "caption": {
+          "ru": "Круговое движение",
+          "kk": "Айналма қозғалыс",
+          "en": "Roundabout"
+        }
+      },
+      "difficulty": 1,
+      "tags": [
+        "roundabout",
+        "priority",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_04",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "Вы выезжаете из жилого двора. По дороге справа движется автомобиль. Ваши действия?",
+        "kk": "Сіз тұрғын ауладан шығасыз. Жол бойымен оңнан көлік келеді. Әрекетіңіз?",
+        "en": "You are leaving a residential yard. A car approaches along the road. What do you do?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Уступить дорогу: выезд с прилегающей территории — вы обязаны пропустить всех",
+            "kk": "Жол беру: ірі жерден шығу — бәрін өткізу міндетті",
+            "en": "Give way: leaving an adjoining area means you must let everyone pass"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Проехать первым, двор — тоже дорога",
+            "kk": "Бірінші өту, аула да — жол",
+            "en": "Go first, a yard is a road too"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Подать сигнал и продолжить выезд",
+            "kk": "Сигнал беріп, шығуды жалғастыру",
+            "en": "Sound the horn and continue"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Прилегающая территория не приравнивается к перекрёстку: выезжая с неё, водитель обязан уступить дорогу всем транспортным средствам и пешеходам.",
+        "kk": "І жер қиылыспен теңестірілмейді: одан шыққанда жүргізуші барлық көлік пен жаяу жүргіншілерге жол беруге міндетті.",
+        "en": "An adjoining area is not an intersection: leaving it, the driver must yield to all vehicles and pedestrians."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "diagram": {
+        "type": "cross",
+        "arms": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ],
+        "yard": {
+          "arm": "w",
+          "pos": 0.45
+        },
+        "vehicles": [
+          {
+            "id": "YOU",
+            "arm": "w",
+            "pos": 0.45,
+            "kind": "car",
+            "fromYard": true
+          },
+          {
+            "id": "B",
+            "arm": "e",
+            "pos": 0.45,
+            "kind": "car"
+          }
+        ],
+        "caption": {
+          "ru": "Выезд со двора",
+          "kk": "Ауладан шығу",
+          "en": "Leaving a yard"
+        }
+      },
+      "difficulty": 1,
+      "tags": [
+        "priority",
+        "yard",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_05",
+      "category": "B",
+      "topicIds": [
+        "intersection"
+      ],
+      "text": {
+        "ru": "На перекрёстке равнозначных дорог трамвай движется прямо, автомобиль поворачивает налево. Кто проедет первым?",
+        "kk": "Тең дәрежелі қиылыста трамвай тура жүреді, автомобиль солға бұрылады. Кім бірінші өтеді?",
+        "en": "At an equal-priority junction a tram goes straight, a car turns left. Who goes first?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Трамвай: на равнозначных дорогах трамвай имеет преимущество",
+            "kk": "Трамвай: тең жолда трамвай артықшылыққа ие",
+            "en": "The tram: on equal roads trams have priority"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Автомобиль: он поворачивает налево",
+            "kk": "Автомобиль: ол солға бұрылады",
+            "en": "The car: it is turning left"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Кто первым подъехал к перекрёстку",
+            "kk": "Кім қиылысқа бірінші келсе",
+            "en": "Whoever reached the junction first"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "На равнозначных дорогах трамвай имеет преимущество перед безрельсовыми транспортными средствами независимо от направления движения.",
+        "kk": "Тең дәрежелі жолда трамвай бағытқа қарамастан, рельссіз көліктерден артықшылыққа ие.",
+        "en": "On equal-priority roads trams have priority over other vehicles regardless of direction."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        }
+      ],
+      "diagram": {
+        "type": "cross",
+        "arms": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ],
+        "vehicles": [
+          {
+            "id": "CAR",
+            "arm": "s",
+            "pos": 0.4,
+            "turn": "left",
+            "kind": "car"
+          }
+        ],
+        "trams": [
+          {
+            "id": "T",
+            "arm": "w",
+            "pos": 0.4
+          }
+        ],
+        "caption": {
+          "ru": "Трамвай имеет преимущество",
+          "kk": "Трамвай артықшылыққа ие",
+          "en": "Tram has priority"
+        }
+      },
+      "difficulty": 2,
+      "tags": [
+        "tram",
+        "priority",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_06",
+      "category": "B",
+      "topicIds": [
+        "pedestrians",
+        "intersection"
+      ],
+      "text": {
+        "ru": "Пешеход находится на нерегулируемом пешеходном переходе. Ваши действия?",
+        "kk": "Жаяу жүргінші реттелмейтін өткелде тұр. Сіздің әрекетіңіз?",
+        "en": "A pedestrian is on an unsignalised pedestrian crossing. What do you do?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Остановиться и пропустить пешехода",
+            "kk": "Тоқтап, жаяуды өткізу",
+            "en": "Stop and let the pedestrian cross"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Проехать, если успеваете до перехода",
+            "kk": "Үлгерсеңіз, өтіп кету",
+            "en": "Drive through if you can clear it in time"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Объехать по встречной полосе",
+            "kk": "Қарсы жолақпен айналып өту",
+            "en": "Go around using the oncoming lane"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Пешеход на нерегулируемом переходе имеет преимущество. Водитель обязан остановиться и пропустить его, не вынуждая менять скорость или направление.",
+        "kk": "Реттелмейтін өткелде жаяудың артықшылығы бар. Жүргізуші тоқтап, оны өткізуге міндетті.",
+        "en": "On an unsignalised crossing pedestrians have priority. The driver must stop and let them cross without forcing a change of speed or direction."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "14"
+        },
+        {
+          "chapter": "4"
+        }
+      ],
+      "diagram": {
+        "type": "straight",
+        "lanes": 2,
+        "vehicles": [
+          {
+            "id": "YOU",
+            "arm": "s",
+            "pos": 0.62,
+            "kind": "car"
+          }
+        ],
+        "crossings": [
+          {
+            "pos": 0.42
+          }
+        ],
+        "pedestrians": [
+          {
+            "arm": "s",
+            "pos": 0.42
+          }
+        ],
+        "caption": {
+          "ru": "Нерегулируемый переход",
+          "kk": "Реттелмейтін өткел",
+          "en": "Unsignalised crossing"
+        }
+      },
+      "difficulty": 1,
+      "tags": [
+        "pedestrians",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_07",
+      "category": "B",
+      "topicIds": [
+        "intersection",
+        "signs-priority"
+      ],
+      "text": {
+        "ru": "На перекрёстке знак 2.1 установлен на дороге, идущей с севера на юг. Автомобиль едет по дороге с востока на запад. Кто уступит?",
+        "kk": "Қиылыста 2.1 белгісі солтүстіктен оңтүстікке жолда. Автомобиль шығыстан батысқа келеді. Кім жол береді?",
+        "en": "At the junction sign 2.1 is on the north–south road. A car travels west along the other road. Who gives way?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Автомобиль, едущий с востока: он на второстепенной дороге",
+            "kk": "Шығыстан келе жатқан: ол қосалқы жолда",
+            "en": "The car from the east: it is on the secondary road"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Автомобиль на главной дороге",
+            "kk": "Басты жолдағы автомобиль",
+            "en": "The car on the main road"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "У кого скорость ниже",
+            "kk": "Жылдамдығы төмен",
+            "en": "The slower one"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Знак 2.1 делает север–южную дорогу главной. Водитель на второстепенной дороге обязан уступить всем, кто едет по главной.",
+        "kk": "2.1 белгісі солтүстік–оңтүстік жолды басты етеді. Қосалқы жолдағы жүргізуші басты жолдағыларға жол беруге міндетті.",
+        "en": "Sign 2.1 makes the north–south road main. The driver on the secondary road must yield to everyone on the main road."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        },
+        {
+          "chapter": "8"
+        }
+      ],
+      "diagram": {
+        "type": "cross",
+        "arms": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ],
+        "main": [
+          "n",
+          "s"
+        ],
+        "signs": [
+          {
+            "code": "2.1",
+            "arm": "n",
+            "side": "right"
+          }
+        ],
+        "vehicles": [
+          {
+            "id": "MAIN",
+            "arm": "n",
+            "pos": 0.42,
+            "kind": "car"
+          },
+          {
+            "id": "SIDE",
+            "arm": "e",
+            "pos": 0.42,
+            "kind": "car"
+          }
+        ],
+        "caption": {
+          "ru": "Главная дорога — с севера на юг",
+          "kk": "Басты жол — солтүстіктен оңтүстікке",
+          "en": "Main road runs north–south"
+        }
+      },
+      "difficulty": 2,
+      "tags": [
+        "priority",
+        "signs",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_08",
+      "category": "B",
+      "topicIds": [
+        "intersection",
+        "traffic-lights"
+      ],
+      "text": {
+        "ru": "Для вашего направления горит красный. Перекрёсток уже занят автомобилем, который завершает манёвр. Ваши действия?",
+        "kk": "Сіздің бағытыңызда қызыл жанып тұр. Қиылыста маневрді аяқтап жатқан көлік бар. Әрекетіңіз?",
+        "en": "Your direction has a red light. A vehicle is still finishing its manoeuvre in the junction. What do you do?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Ждать перед стоп-линией и не выезжать на перекрёсток",
+            "kk": "Тоқтау сызығының алдында күтіп, қиылысқа шықпау",
+            "en": "Wait behind the stop line and do not enter the junction"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Выехать, но уступить завершающему манёвр",
+            "kk": "Шығу, бірақ маневрді аяқтап жатқанға жол беру",
+            "en": "Enter, but give way to the vehicle finishing its manoeuvre"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Проехать, если красный горит меньше 5 секунд",
+            "kk": "Қызыл 5 секундтан аз жанса, өту",
+            "en": "Go through if the red has been on for less than 5 seconds"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Красный сигнал запрещает движение. На перекрёсток можно выезжать только при зелёном (или при завершении манёвра, нача́того ранее), не создавая помех.",
+        "kk": "Қызыл сигнал қозғалысқа тыйым. Қиылысқа тек жасылда шығуға болады, кедергі келтірмей.",
+        "en": "A red light prohibits movement. You may enter the junction only on green, without creating interference."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "6"
+        }
+      ],
+      "diagram": {
+        "type": "cross",
+        "arms": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ],
+        "lights": [
+          {
+            "arm": "s",
+            "state": "red"
+          }
+        ],
+        "vehicles": [
+          {
+            "id": "OTHER",
+            "arm": "w",
+            "pos": 0.18,
+            "kind": "car"
+          }
+        ],
+        "caption": {
+          "ru": "Красный для вашего направления",
+          "kk": "Сіздің бағытыңызда қызыл",
+          "en": "Red for your direction"
+        }
+      },
+      "difficulty": 1,
+      "tags": [
+        "signals",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_09",
+      "category": "B",
+      "topicIds": [
+        "overtaking",
+        "markings"
+      ],
+      "text": {
+        "ru": "Дорога двухполосная, впереди пешеходный переход. Автомобиль A движется за автомобилем B и намеревается его обогнать. Можно ли?",
+        "kk": "Жол екі жолақты, алда жаяу өткелі. A көлігі B-нің соңында келе жатыр және оны жағалай айналып өткісі келеді. Бола ма?",
+        "en": "The road has two lanes and a pedestrian crossing ahead. Car A is behind car B and wants to overtake. Is it allowed?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Нет: обгон на пешеходном переходе и перед ним запрещён",
+            "kk": "Жоқ: жаяу өткелінде және одан бұрын жағалай айналып өтуге тыйым",
+            "en": "No: overtaking on a pedestrian crossing or before it is prohibited"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Да, если встречная полоса свободна",
+            "kk": "Иә, қарсы жолақ бос болса",
+            "en": "Yes, if the oncoming lane is clear"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Да, но только на скорости не более 40 км/ч",
+            "kk": "Иә, тек 40 км/сағ-тан аспайтын жылдамдықпен",
+            "en": "Yes, but at no more than 40 km/h"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "Обгон на пешеходном переходе запрещён. Переход находится впереди, значит обгон начинать нельзя — тем более что обгоняемый может закрывать обзор.",
+        "kk": "Жаяу өткелінде жағалай айналып өтуге тыйым. Өткел алда, демек бастауға болмайды.",
+        "en": "Overtaking on a pedestrian crossing is prohibited. The crossing is ahead, so you must not start overtaking."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "11"
+        }
+      ],
+      "diagram": {
+        "type": "straight",
+        "lanes": 2,
+        "vehicles": [
+          {
+            "id": "B",
+            "arm": "s",
+            "pos": 0.34,
+            "kind": "car"
+          },
+          {
+            "id": "A",
+            "arm": "s",
+            "pos": 0.6,
+            "kind": "car"
+          }
+        ],
+        "crossings": [
+          {
+            "pos": 0.16
+          }
+        ],
+        "caption": {
+          "ru": "Пешеходный переход впереди",
+          "kk": "Алда жаяу өткелі",
+          "en": "Pedestrian crossing ahead"
+        }
+      },
+      "difficulty": 2,
+      "tags": [
+        "overtaking",
+        "markings",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    },
+    {
+      "id": "q_sit_10",
+      "category": "B",
+      "topicIds": [
+        "intersection",
+        "bicycle"
+      ],
+      "text": {
+        "ru": "Вы поворачиваете направо. Справа от вас по велосипедной дорожке едет велосипедист прямо. Ваши действия?",
+        "kk": "Сіз оңға бұрыласыз. Оңыңызда велосипед жолымен велосипедші тура келеді. Әрекетіңіз?",
+        "en": "You turn right. A cyclist is riding straight along the cycle track on your right. What do you do?"
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": {
+            "ru": "Уступить велосипедисту: при повороте направо нельзя создавать помеху движущимся прямо велосипедистам",
+            "kk": "Велосипедшіге жол беру: оңға бұрылғанда тура келе жатқан велосипедшіге кедергі келтіруге болмайды",
+            "en": "Give way to the cyclist: when turning right you must not obstruct cyclists going straight"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "ru": "Проехать первым: велосипедист должен уступить автомобилю",
+            "kk": "Бірінші өту: велосипедші автокөлікке жол беруі керек",
+            "en": "Go first: the cyclist must give way to the car"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "ru": "Сигналить и продолжить поворот",
+            "kk": "Сигнал беріп, бұрылысты жалғастыру",
+            "en": "Sound the horn and continue the turn"
+          }
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": {
+        "ru": "При повороте направо водитель обязан уступить велосипедистам и пешеходам, движущимся прямо в том же направлении по велосипедной дорожке или тротуару.",
+        "kk": "Оңға бұрылғанда жүргізуші велосипед жолымен тура келе жатқан велосипедшілер мен жаяу жүргіншілерге жол беруге міндетті.",
+        "en": "When turning right the driver must give way to cyclists and pedestrians going straight along a cycle track or pavement."
+      },
+      "pdDRefs": [
+        {
+          "chapter": "13"
+        },
+        {
+          "chapter": "24"
+        }
+      ],
+      "diagram": {
+        "type": "straight",
+        "lanes": 2,
+        "vehicles": [
+          {
+            "id": "YOU",
+            "arm": "s",
+            "pos": 0.55,
+            "turn": "right",
+            "kind": "car"
+          }
+        ],
+        "bikes": [
+          {
+            "id": "C",
+            "arm": "s",
+            "pos": 0.32,
+            "side": "right"
+          }
+        ],
+        "caption": {
+          "ru": "Поворот направо и велосипедист",
+          "kk": "Оңға бұрылыс және велосипедші",
+          "en": "Right turn and a cyclist"
+        }
+      },
+      "difficulty": 2,
+      "tags": [
+        "bicycle",
+        "turn",
+        "diagram"
+      ],
+      "source": "pdd-kz authoring"
+    }
+  ]
+}

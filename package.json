@@ -1,0 +1,25 @@
+{
+  "name": "pdd-kz",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JolBilet — free trainer for the Kazakhstan driving licence theory exam (tickets, road signs, situations, PDD reference, fines).",
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w apps/web",
+    "build": "npm run signs:build && npm run content:build && npm run build -w apps/web",
+    "preview": "npm run preview -w apps/web",
+    "typecheck": "npm run typecheck -w apps/web",
+    "test": "npm run test -w apps/web",
+    "test:watch": "npm run test:watch -w apps/web",
+    "content:build": "node tools/build-content.mjs",
+    "content:validate": "node tools/build-content.mjs --check",
+    "signs:build": "node tools/signs/generate.mjs",
+    "rust:test": "cargo test --workspace",
+    "rust:check": "cargo clippy --workspace --all-targets -- -D warnings"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

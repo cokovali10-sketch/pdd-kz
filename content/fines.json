@@ -1,0 +1,168 @@
+[
+  {
+    "id": "f_speed_10_20",
+    "article": "592",
+    "title": { "ru": "Превышение скорости на 10–20 км/ч", "kk": "Жылдамдықты 10–20 км/сағ асыру", "en": "Speeding by 10–20 km/h" },
+    "amountMrep": 5,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "10" }],
+    "note": {
+      "ru": "Размер штрафа указан в МРП и требует сверки с действующей редакцией КоАП.",
+      "kk": "Айыппұл соммасы АЕК-пен берілген, әрекеттегі редакциямен салыстыруды қажет етеді.",
+      "en": "The fine is expressed in monthly calculation indices and must be verified against the current Code."
+    }
+  },
+  {
+    "id": "f_speed_20_40",
+    "article": "592",
+    "title": { "ru": "Превышение скорости на 20–40 км/ч", "kk": "Жылдамдықты 20–40 км/сағ асыру", "en": "Speeding by 20–40 km/h" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "10" }],
+    "note": { "ru": "Требует сверки с действующей редакцией КоАП.", "kk": "Әрекеттегі редакциямен салыстыруды қажет етеді.", "en": "Needs verification against the current Code." }
+  },
+  {
+    "id": "f_speed_40_plus",
+    "article": "592",
+    "title": { "ru": "Превышение скорости более чем на 40 км/ч", "kk": "Жылдамдықты 40 км/сағ-тан асыру", "en": "Speeding by more than 40 km/h" },
+    "amountMrep": 20,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "10" }],
+    "note": { "ru": "Требует сверки с действующей редакцией КоАП.", "kk": "Әрекеттегі редакциямен салыстыруды қажет етеді.", "en": "Needs verification against the current Code." }
+  },
+  {
+    "id": "f_belt",
+    "article": "593",
+    "title": { "ru": "Непристёгнутый ремень безопасности", "kk": "Қауіпсіздік белдігі тағылмаған", "en": "Seat belt not fastened" },
+    "amountMrep": 5,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "2" }],
+    "note": { "ru": "Штраф на водителя и на пассажира без ремня.", "kk": "Жүргізушіге де, белдіксіз жолаушыға да айыппұл.", "en": "Applies to both driver and unbelted passenger." }
+  },
+  {
+    "id": "f_phone",
+    "article": "591",
+    "title": { "ru": "Пользование телефоном за рулём", "kk": "Рульде телефон пайдалану", "en": "Using a phone while driving" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "2" }],
+    "note": { "ru": "Разрешено только hands-free оборудование.", "kk": "Тек hands-free жабдыққа рұқсат.", "en": "Only hands-free equipment is allowed." }
+  },
+  {
+    "id": "f_no_licence",
+    "article": "541",
+    "title": { "ru": "Управление без водительского удостоверения", "kk": "Жүргізуші куәлігінсіз басқару", "en": "Driving without a licence" },
+    "amountMrep": 20,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "2" }],
+    "note": { "ru": "В том числе управление с приостановленным правом.", "kk": "Бұғатталған құқықпен басқаруды қоса.", "en": "Includes driving with a suspended licence." }
+  },
+  {
+    "id": "f_drunk",
+    "article": "608",
+    "title": { "ru": "Управление в состоянии опьянения", "kk": "Масқұмар күйде басқару", "en": "Driving under the influence" },
+    "amountMrep": 50,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "2" }],
+    "note": { "ru": "Влечёт лишение права управления на срок.", "kk": "Басқару құқығын белгілі мерзімге айыруға әкеледі.", "en": "Also leads to licence suspension for a period." }
+  },
+  {
+    "id": "f_pedestrian_crossing",
+    "article": "596",
+    "title": { "ru": "Не уступил дорогу пешеходу на переходе", "kk": "Өткелде жаяуға жол бермеу", "en": "Failure to give way to a pedestrian" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "14" }],
+    "note": { "ru": "Наказуемо даже при отсутствии ДТП.", "kk": "ЖКО болмаса да жазаланады.", "en": "Punishable even without a collision." }
+  },
+  {
+    "id": "f_tinted",
+    "article": "590",
+    "title": { "ru": "Тонировка стёкол сверх нормы", "kk": "Әйнекті артық қоюлау", "en": "Excessive window tinting" },
+    "amountMrep": 5,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "25" }],
+    "note": { "ru": "Проверяется прибором на месте.", "kk": "Орнында құрылғымен тексеріледі.", "en": "Checked on the spot with a device." }
+  },
+  {
+    "id": "f_child_restraint",
+    "article": "602",
+    "title": { "ru": "Перевозка ребёнка без удерживающего устройства", "kk": "Баланы ұстау құрылғысыз тасымалдау", "en": "Carrying a child without a restraint" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "22" }],
+    "note": { "ru": "Для детей до 7 лет.", "kk": "7 жасқа дейінгі балалар үшін.", "en": "Applies to children under 7." }
+  },
+  {
+    "id": "f_parking_forbidden",
+    "article": "595",
+    "title": { "ru": "Стоянка в запрещённом месте", "kk": "Тыйым салынған жерде тұрақ", "en": "Parking in a prohibited place" },
+    "amountMrep": 5,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "12" }],
+    "note": { "ru": "В том числе на газоне, тротуаре, ближе 5 м перед переходом.", "kk": "Газонда, тротуарда, өткел алдында 5 метрден жақын.", "en": "Includes grass, pavements and within 5 m of a crossing." }
+  },
+  {
+    "id": "f_bus_lane",
+    "article": "594",
+    "title": { "ru": "Движение по полосе для маршрутных ТС", "kk": "Маршруттық көлік жолағымен жүру", "en": "Driving in a bus lane" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "8" }],
+    "note": { "ru": "Запрещено, кроме поворота и выезда на дорогу.", "kk": "Бұрылыс пен жолға шығудан басқа тыйым.", "en": "Prohibited except for turning and leaving the road." }
+  },
+  {
+    "id": "f_technical",
+    "article": "588",
+    "title": { "ru": "Управление технически неисправным автомобилем", "kk": "Техникалық ақаулы көлікпен жүру", "en": "Driving a defective vehicle" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "2" }],
+    "note": { "ru": "Неисправности тормозов, рулевого управления, световых приборов.", "kk": "Тежегіш, руль, жарық ақаулары.", "en": "Brakes, steering, lights and similar defects." }
+  },
+  {
+    "id": "f_obstruction",
+    "article": "597",
+    "title": { "ru": "Создание помехи движению", "kk": "Қозғалысқа кедергі келтіру", "en": "Obstructing traffic" },
+    "amountMrep": 5,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "9" }],
+    "note": { "ru": "В том числе остановка на перекрёстке при заторе.", "kk": "Кептелісте қиылыста тоқтауды қоса.", "en": "Includes stopping in a junction during congestion." }
+  },
+  {
+    "id": "f_emergency_services",
+    "article": "599",
+    "title": { "ru": "Не уступил дорогу спецтранспорту", "kk": "Арнайы көлікке жол бермеу", "en": "Failure to give way to emergency vehicles" },
+    "amountMrep": 20,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "25" }],
+    "note": { "ru": "Транспорт с включёнными маячком и звуковым сигналом.", "kk": "Шам мен дыбыс сигналы қосулы көлік.", "en": "Vehicles with flashing lights and siren." }
+  },
+  {
+    "id": "f_towing",
+    "article": "601",
+    "title": { "ru": "Нарушение правил буксировки", "kk": "Сүйреу ережелерін бұзу", "en": "Towing rules violation" },
+    "amountMrep": 5,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "20" }],
+    "note": { "ru": "В том числе скорость выше 50 км/ч.", "kk": "50 км/сағ-тан жоғары жылдамдықты қоса.", "en": "Includes towing faster than 50 km/h." }
+  },
+  {
+    "id": "f_license_plate",
+    "article": "589",
+    "title": { "ru": "Нечитаемые или скрытые номерные знаки", "kk": "Оқылмайтын немесе жасырылған нөмір", "en": "Obscured or unreadable plates" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "2" }],
+    "note": { "ru": "Грязные, повреждённые или намеренно закрытые знаки.", "kk": "Лас, зақымдалған немесе әдейі жабылған белгілер.", "en": "Dirty, damaged or deliberately covered plates." }
+  },
+  {
+    "id": "f_red_light",
+    "article": "596",
+    "title": { "ru": "Проезд на запрещающий сигнал", "kk": "Тыйым сигналында өту", "en": "Running a red light" },
+    "amountMrep": 10,
+    "status": "draft",
+    "pdDRefs": [{ "chapter": "6" }],
+    "note": { "ru": "В том числе проезд стоп-линии.", "kk": "Тоқтау сызығынан өтуді қоса.", "en": "Includes crossing the stop line." }
+  }
+]

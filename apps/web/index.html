@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ru" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>JolBilet — ПДД Казахстана: билеты, знаки, ситуации</title>
+    <meta
+      name="description"
+      content="Бесплатный тренажёр для подготовки к теоретическому экзамену по ПДД Казахстана: билеты, дорожные знаки, разметка, ситуации, справочник ПДД и штрафы."
+    />
+    <meta name="theme-color" content="#080a10" />
+    <meta property="og:title" content="JolBilet — ПДД Казахстана: билеты, знаки, ситуации" />
+    <meta
+      property="og:description"
+      content="Экзамен 20×20, режимы по темам, знаки, разметка, разбор ошибок со ссылками на пункты ПДД. Бесплатно и без регистрации."
+    />
+    <meta property="og:type" content="website" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('jb.theme');
+          if (t === 'light' || t === 'dark') {
+            document.documentElement.classList.toggle('dark', t === 'dark');
+            document.documentElement.style.colorScheme = t;
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

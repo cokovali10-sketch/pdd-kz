@@ -1,0 +1,43 @@
+{
+  "version": "500fced32dd4",
+  "generatedAt": "2026-11-16T16:25:30.175Z",
+  "stats": {
+    "questions": 45,
+    "topics": 19,
+    "signs": 65,
+    "markings": 9,
+    "pddChapters": 16,
+    "pddPoints": 26,
+    "fines": 18,
+    "questionsWithDiagram": 10,
+    "questionsWithSigns": 11,
+    "questionsPerTopic": {
+      "intersection": 15,
+      "traffic-lights": 5,
+      "speed": 5,
+      "common": 4,
+      "parking": 4,
+      "safety": 4,
+      "overtaking": 3,
+      "pedestrians": 3,
+      "signs-warning": 2,
+      "signs-priority": 2,
+      "signs-prohib": 2,
+      "signs-special": 2,
+      "markings": 2,
+      "documents": 1,
+      "signs-mand": 1,
+      "signs-info": 1,
+      "signs-service": 1,
+      "bicycle": 1
+    }
+  },
+  "files": [
+    "content.json",
+    "questions.json",
+    "signs.json",
+    "markings.json",
+    "pdd.json",
+    "fines.json"
+  ]
+}

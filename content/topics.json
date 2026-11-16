@@ -1,0 +1,230 @@
+[
+  {
+    "id": "common",
+    "order": 1,
+    "icon": "BookOpen",
+    "accent": "violet",
+    "title": { "ru": "Общие положения", "kk": "Жалпы ережелер", "en": "General rules" },
+    "short": {
+      "ru": "Термины, обязанности водителя, документы",
+      "kk": "Терминдер, жүргізушінің міндеттері, құжаттар",
+      "en": "Terms, driver duties, documents"
+    }
+  },
+  {
+    "id": "documents",
+    "order": 2,
+    "icon": "FileText",
+    "accent": "sky",
+    "title": { "ru": "Документы и допуск", "kk": "Құжаттар және жол беру", "en": "Documents and eligibility" },
+    "short": {
+      "ru": "Какие документы нужны за рулём",
+      "kk": "Рульде қандай құжаттар керек",
+      "en": "What documents you need behind the wheel"
+    }
+  },
+  {
+    "id": "safety",
+    "order": 3,
+    "icon": "ShieldCheck",
+    "accent": "emerald",
+    "title": { "ru": "Безопасность и сигналы", "kk": "Қауіпсіздік және сигналдар", "en": "Safety and signals" },
+    "short": {
+      "ru": "Ремни, дети, аварийная сигнализация",
+      "kk": "Белдіктер, балалар, апастық сигнал",
+      "en": "Belts, children, hazard lights"
+    }
+  },
+  {
+    "id": "speed",
+    "order": 4,
+    "icon": "Gauge",
+    "accent": "amber",
+    "title": { "ru": "Скорость и дистанция", "kk": "Жылдамдық және қашықтық", "en": "Speed and distance" },
+    "short": {
+      "ru": "Лимиты в городе, на трассе, при буксировке",
+      "kk": "Қалада, трассада, сүйреу кезіндегі шектеулер",
+      "en": "Limits in town, on open roads, when towing"
+    }
+  },
+  {
+    "id": "traffic-lights",
+    "order": 5,
+    "icon": "Lightbulb",
+    "accent": "yellow",
+    "title": { "ru": "Светофоры и регулировщик", "kk": "Жарық сандары және жол полициясы", "en": "Traffic lights and officer" },
+    "short": {
+      "ru": "Сигналы, жесты, приоритет",
+      "kk": "Сигналдар, белгілер, артықшылық",
+      "en": "Signals, gestures, priority"
+    }
+  },
+  {
+    "id": "signs-warning",
+    "order": 6,
+    "icon": "AlertTriangle",
+    "accent": "orange",
+    "title": { "ru": "Знаки: предупреждающие", "kk": "Белгілер: ескертуші", "en": "Signs: warning" },
+    "short": {
+      "ru": "Треугольные знаки 1.x",
+      "kk": "Үшбұрышты 1.x белгілері",
+      "en": "Triangular 1.x signs"
+    }
+  },
+  {
+    "id": "signs-priority",
+    "order": 7,
+    "icon": "ArrowUpRight",
+    "accent": "rose",
+    "title": { "ru": "Знаки: приоритета", "kk": "Белгілер: артықшылық", "en": "Signs: priority" },
+    "short": {
+      "ru": "Главная дорога, уступите, STOP",
+      "kk": "Басты жол, жол беру, STOP",
+      "en": "Main road, give way, STOP"
+    }
+  },
+  {
+    "id": "signs-prohib",
+    "order": 8,
+    "icon": "Ban",
+    "accent": "red",
+    "title": { "ru": "Знаки: запрещающие", "kk": "Белгілер: тыйым салатын", "en": "Signs: prohibitory" },
+    "short": {
+      "ru": "Круглые знаки 3.x",
+      "kk": "Дөңгелек 3.x белгілері",
+      "en": "Round 3.x signs"
+    }
+  },
+  {
+    "id": "signs-mand",
+    "order": 9,
+    "icon": "ArrowRight",
+    "accent": "blue",
+    "title": { "ru": "Знаки: предписывающие", "kk": "Белгілер: бұйырық", "en": "Signs: mandatory" },
+    "short": {
+      "ru": "Синие знаки 4.x",
+      "kk": "Көк 4.x белгілері",
+      "en": "Blue 4.x signs"
+    }
+  },
+  {
+    "id": "signs-special",
+    "order": 10,
+    "icon": "Signpost",
+    "accent": "cyan",
+    "title": { "ru": "Знаки особых предписаний", "kk": "Ерекше нұсқау белгілері", "en": "Special regulation signs" },
+    "short": {
+      "ru": "Автомагистраль, одностороннее, полосы",
+      "kk": "Автомагистраль, бір бағытты, жолақтар",
+      "en": "Motorway, one-way, lanes"
+    }
+  },
+  {
+    "id": "signs-info",
+    "order": 11,
+    "icon": "Info",
+    "accent": "teal",
+    "title": { "ru": "Информационные знаки", "kk": "Ақпараттық белгілер", "en": "Information signs" },
+    "short": {
+      "ru": "Парковка, тупик, указатели",
+      "kk": "Тұрақ, тұйық, көрсеткіштер",
+      "en": "Parking, dead end, directions"
+    }
+  },
+  {
+    "id": "signs-service",
+    "order": 12,
+    "icon": "Fuel",
+    "accent": "lime",
+    "title": { "ru": "Знаки сервиса", "kk": "Қызмет көрсету белгілері", "en": "Service signs" },
+    "short": {
+      "ru": "АЗС, медпункт, мойка, связь",
+      "kk": "АЗС, медпункт, жуу, байланыс",
+      "en": "Fuel, first aid, car wash, phone"
+    }
+  },
+  {
+    "id": "markings",
+    "order": 13,
+    "icon": "PaintBucket",
+    "accent": "indigo",
+    "title": { "ru": "Разметка", "kk": "Жол сызықтары", "en": "Road markings" },
+    "short": {
+      "ru": "Линии 1.x, что можно, что нельзя",
+      "kk": "1.x сызықтары, не рұқсат, не тыйым",
+      "en": "1.x lines: allowed and forbidden"
+    }
+  },
+  {
+    "id": "intersection",
+    "order": 14,
+    "icon": "GitMerge",
+    "accent": "fuchsia",
+    "title": { "ru": "Перекрёстки и приоритет", "kk": "Қиылыстар және артықшылық", "en": "Junctions and priority" },
+    "short": {
+      "ru": "Помеха справа, главная дорога, круг",
+      "kk": "Оңнан кедергі, басты жол, айналым",
+      "en": "Give way to the right, main road, roundabout"
+    }
+  },
+  {
+    "id": "overtaking",
+    "order": 15,
+    "icon": "ArrowLeftRight",
+    "accent": "purple",
+    "title": { "ru": "Обгон и опережение", "kk": "Жағалай айналып өту", "en": "Overtaking" },
+    "short": {
+      "ru": "Где запрещено, как правильно",
+      "kk": "Қайда тыйым, қалай дұрыс",
+      "en": "Where prohibited, how to do it right"
+    }
+  },
+  {
+    "id": "pedestrians",
+    "order": 16,
+    "icon": "Footprints",
+    "accent": "emerald",
+    "title": { "ru": "Пешеходы", "kk": "Жаяу жүргіншілер", "en": "Pedestrians" },
+    "short": {
+      "ru": "Переходы, преимущество, видимость",
+      "kk": "Өткелдер, артықшылық, көріну",
+      "en": "Crossings, priority, visibility"
+    }
+  },
+  {
+    "id": "parking",
+    "order": 17,
+    "icon": "CircleParking",
+    "accent": "amber",
+    "title": { "ru": "Остановка и стоянка", "kk": "Тоқтау және тұрақ", "en": "Stopping and parking" },
+    "short": {
+      "ru": "Где нельзя останавливаться",
+      "kk": "Қай жерде тоқтауға болмайды",
+      "en": "Where stopping is not allowed"
+    }
+  },
+  {
+    "id": "bicycle",
+    "order": 18,
+    "icon": "Bike",
+    "accent": "sky",
+    "title": { "ru": "Велосипедисты и СИМ", "kk": "Велосипедшілер және СИМ", "en": "Cyclists and micromobility" },
+    "short": {
+      "ru": "Взаимодействие с велосипедистами",
+      "kk": "Велосипедшілермен өзара әрекет",
+      "en": "Interacting with cyclists"
+    }
+  },
+  {
+    "id": "first-aid",
+    "order": 19,
+    "icon": "HeartPulse",
+    "accent": "rose",
+    "title": { "ru": "ДТП и первая помощь", "kk": "ЖКО және алғашқы көмек", "en": "Crashes and first aid" },
+    "short": {
+      "ru": "Действия при аварии, аптечка",
+      "kk": "Апат кезіндегі әрекеттер, аптечка",
+      "en": "What to do after a crash, first aid kit"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+node_modules/
+dist/
+dev-dist/
+.vite/
+coverage/
+*.local
+.DS_Store
+Thumbs.db
+
+# generated content bundle (built by `npm run content:build`)
+# committed so Vercel has data even without a build step
+!apps/web/public/content/
+!apps/web/public/content/**
+!apps/web/public/signs/
+!apps/web/public/signs/**
+
+# rust
+target/
+**/*.rs.bk
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# env
+.env
+.env.*
+!.env.example
+
+# editors
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# test artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+.vercel
+.env*

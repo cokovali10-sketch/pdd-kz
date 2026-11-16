@@ -1,0 +1,11 @@
+[package]
+name = "pdd-srs"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+description = "Spaced repetition scheduler for the JolBilet PDD trainer"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }

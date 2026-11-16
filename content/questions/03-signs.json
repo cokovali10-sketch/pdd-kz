@@ -1,0 +1,262 @@
+[
+  {
+    "id": "q_signs_01",
+    "category": "B",
+    "topicIds": ["signs-warning"],
+    "text": {
+      "ru": "Что означает знак 1.22 «Пешеходный переход»?",
+      "kk": "1.22 «Жаяу жүргіншілер өткелі» белгісі нені білдіреді?",
+      "en": "What does sign 1.22 “Pedestrian crossing” mean?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Пешеходам разрешено переходить дорогу в этом месте", "kk": "Осы жерде жаяу жүргіншілер жолды өте алады", "en": "Pedestrians may cross the road here" } },
+      { "id": "b", "text": { "ru": "Предупреждает о приближении к пешеходному переходу, который находится вне поля зрения", "kk": "Көріністен тыс жатқан жаяу өткеліне жақындағаны туралы ескертеді", "en": "Warns that a pedestrian crossing outside your field of view is ahead" } },
+      { "id": "c", "text": { "ru": "Запрещает движение пешеходов", "kk": "Жаяу жүргіншілерге қозғалысқа тыйым салады", "en": "Prohibits pedestrian movement" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Знак 1.22 относится к предупреждающим: он заранее предупреждает о переходе. Сам переход обозначается знаком 5.19.1 и разметкой 1.14.1.",
+      "kk": "1.22 — ескертуші белгі: өткел туралы алдын ала ескертеді. Өткелдің өзі 5.19.1 белгісімен және 1.14.1 сызықпен белгіленеді.",
+      "en": "Sign 1.22 is a warning sign: it warns of the crossing in advance. The crossing itself is marked by sign 5.19.1 and marking 1.14.1."
+    },
+    "pdDRefs": [{ "chapter": "8" }],
+    "signIds": ["s_1.22"],
+    "difficulty": 1,
+    "tags": ["signs"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_02",
+    "category": "B",
+    "topicIds": ["signs-priority", "intersection"],
+    "text": {
+      "ru": "Что означает знак 2.1 «Главная дорога»?",
+      "kk": "2.1 «Басты жол» белгісі нені білдіреді?",
+      "en": "What does sign 2.1 “Main road” mean?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Вы находитесь на главной дороге: на перекрёстках вы имеете преимущество перед въезжающими на неё", "kk": "Сіз басты жолдасыз: қиылыстарда оған кірушілерден артықшылығыңыз бар", "en": "You are on the main road: you have priority at junctions over vehicles entering it" } },
+      { "id": "b", "text": { "ru": "Дорога предназначена только для глав государств", "kk": "Жол тек мемлекет басшыларына арналған", "en": "The road is reserved for heads of state" } },
+      { "id": "c", "text": { "ru": "На этой дороге запрещён обгон", "kk": "Бұл жолда жағалай айналып өтуге тыйым", "en": "Overtaking is prohibited on this road" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "2.1 — знак приоритета: дорога с покрытием обозначается как главная, и водитель имеет преимущество на перекрёстках. Зона действия заканчивается знаком 2.3.1.",
+      "kk": "2.1 — артықшылық белгісі: жол басты деп белгіленеді, жүргізушінің қиылыстарда артықшылығы бар. Аяқталуы 2.3.1 белгісімен.",
+      "en": "2.1 is a priority sign: the road is designated main and the driver has priority at junctions. Its effect ends at sign 2.3.1."
+    },
+    "pdDRefs": [{ "chapter": "8" }, { "chapter": "13" }],
+    "signIds": ["s_2.1"],
+    "difficulty": 1,
+    "tags": ["signs", "priority"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_03",
+    "category": "B",
+    "topicIds": ["signs-prohib", "speed"],
+    "text": {
+      "ru": "Знак 3.24 «Ограничение 40» установлен вместе с табличкой 8.2.1. Где заканчивается зона его действия?",
+      "kk": "3.24 «Шектеу 40» белгісі 8.2.1 тақтайшасымен орнатылған. Оның әсер ету аймағы қайда аяқталады?",
+      "en": "Sign 3.24 “Limit 40” is installed with plate 8.2.1. Where does its effect end?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Через 100 метров после знака", "kk": "Белгіден кейін 100 метрден соң", "en": "100 metres after the sign" } },
+      { "id": "b", "text": { "ru": "На следующем перекрёстке", "kk": "Келесі қиылыста", "en": "At the next junction" } },
+      { "id": "c", "text": { "ru": "Только до конца населённого пункта", "kk": "Тек елді мекеннің соңына дейін", "en": "Only until the end of the built-up area" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Табличка 8.2.1 задаёт зону действия: ограничение действует 100 метров после знака. Без таблички знак действует до ближайшего перекрёстка, конца населённого пункта или знака 3.25.",
+      "kk": "8.2.1 тақтайшасы әсер ету аймағын белгілейді: шектеу белгіден кейін 100 метр бойы әрекет етеді. Тақтайшасыз — ең жақын қиылысқа дейін.",
+      "en": "Plate 8.2.1 sets the zone: the limit applies for 100 metres after the sign. Without the plate it applies until the next junction, the end of the built-up area, or sign 3.25."
+    },
+    "pdDRefs": [{ "chapter": "8" }],
+    "signIds": ["s_3.24", "s_8.2.1"],
+    "difficulty": 2,
+    "tags": ["signs", "speed"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_04",
+    "category": "B",
+    "topicIds": ["signs-mand"],
+    "text": {
+      "ru": "Знак 4.1.1 разрешает движение прямо и направо. Можно ли повернуть налево?",
+      "kk": "4.1.1 белгісі тура және оңға қозғалысқа рұқсат етеді. Солға бұрылуға бола ма?",
+      "en": "Sign 4.1.1 allows driving straight ahead and right. May you turn left?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Нет, движение налево запрещено", "kk": "Жоқ, солға қозғалысқа тыйым", "en": "No, left turns are prohibited" } },
+      { "id": "b", "text": { "ru": "Да, если нет встречных автомобилей", "kk": "Иә, қарсы көлік болмаса", "en": "Yes, if no oncoming traffic" } },
+      { "id": "c", "text": { "ru": "Да, но только со второй полосы", "kk": "Иә, тек екінші жолақтан", "en": "Yes, but only from the second lane" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "4.1.1 — предписывающий знак: разрешены только направления, указанные на знаке. Поворот налево запрещён, а разворот разрешён только если это допускает обстановка и нет запрещающих знаков.",
+      "kk": "4.1.1 — бұйырық белгі: тек белгіде көрсетілген бағыттар рұқсат. Солға бұрылуға тыйым, бұрылыс тек жағдай рұқсат етсе.",
+      "en": "4.1.1 is a mandatory sign: only the directions shown are allowed. Left turns are prohibited; a U-turn is allowed only if the situation and other signs permit it."
+    },
+    "pdDRefs": [{ "chapter": "8" }],
+    "signIds": ["s_4.1.1"],
+    "difficulty": 1,
+    "tags": ["signs", "directions"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_05",
+    "category": "B",
+    "topicIds": ["signs-special", "markings"],
+    "text": {
+      "ru": "Что означает знак 5.15.1 «Направления движения по полосам»?",
+      "kk": "5.15.1 «Жолақтар бойынша қозғалыс бағыттары» белгісі нені білдіреді?",
+      "en": "What does sign 5.15.1 “Directions of movement by lanes” mean?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Указывает разрешённые направления движения по каждой полосе и запрещает поворот с полосы, где он не указан", "kk": "Әр жолақта рұқсат етілген бағыттарды көрсетеді және көрсетілмеген жерден бұрылуға тыйым салады", "en": "Shows permitted directions for each lane and forbids turning from a lane where it is not shown" } },
+      { "id": "b", "text": { "ru": "Разрешает движение задним ходом по полосе", "kk": "Жолақпен кері жүруге рұқсат етеді", "en": "Allows reversing along the lane" } },
+      { "id": "c", "text": { "ru": "Обозначает полосу для общественного транспорта", "kk": "Көпшілік көлігіне арналған жолақты білдіреді", "en": "Marks a lane for public transport" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Знак дублирует разметку 1.18 и показывает, откуда и куда можно ехать. Поворот налево или разворот из полосы, где он не разрешён, запрещён.",
+      "kk": "Белгі 1.18 сызығын қайталайды және қайдан, қайда жүруге болатынын көрсетеді. Рұқсат етілмеген жолақтан солға бұрылуға тыйым.",
+      "en": "The sign duplicates marking 1.18 and shows where you may go from each lane. Turning left or making a U-turn from a lane where it is not permitted is prohibited."
+    },
+    "pdDRefs": [{ "chapter": "8" }, { "chapter": "9" }],
+    "signIds": ["s_5.15.1"],
+    "difficulty": 1,
+    "tags": ["signs", "lanes"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_06",
+    "category": "B",
+    "topicIds": ["signs-info", "parking"],
+    "text": {
+      "ru": "Что означает знак 6.4 «Парковка (парковочное место)»?",
+      "kk": "6.4 «Тұрақ (тұрақ орны)» белгісі нені білдіреді?",
+      "en": "What does sign 6.4 “Parking” mean?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Разрешает стоянку в этом месте", "kk": "Осы жерде тұраққа рұқсат етеді", "en": "Parking is permitted here" } },
+      { "id": "b", "text": { "ru": "Запрещает стоянку", "kk": "Тұраққа тыйым салады", "en": "Parking is prohibited" } },
+      { "id": "c", "text": { "ru": "Разрешает только платную парковку", "kk": "Тек ақылы тұраққа рұқсат", "en": "Paid parking only" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "6.4 — информационный знак: он обозначает место, где разрешена стоянка. Он не означает автоматически, что парковка бесплатная.",
+      "kk": "6.4 — ақпараттық белгі: тұраққа рұқсат етілген орынды білдіреді. Ол тұрақтың тегін екенін білдірмейді.",
+      "en": "6.4 is an information sign: it marks a place where parking is permitted. It does not mean parking is free."
+    },
+    "pdDRefs": [{ "chapter": "8" }, { "chapter": "12" }],
+    "signIds": ["s_6.4"],
+    "difficulty": 1,
+    "tags": ["signs", "parking"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_07",
+    "category": "B",
+    "topicIds": ["signs-service"],
+    "text": {
+      "ru": "Какой сервис обозначает знак 7.1 «Пункт первой медицинской помощи»?",
+      "kk": "7.1 «Алғашқы медициналық көмек» белгісі қандай қызметті білдіреді?",
+      "en": "What service does sign 7.1 “First aid point” indicate?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Больницу со стационаром", "kk": "Тұрақты емхананы", "en": "A hospital with inpatient care" } },
+      { "id": "b", "text": { "ru": "Пункт первой медицинской помощи — фельдшерский пункт или медпункт без стационара", "kk": "Алғашқы медициналық көмек — фельдшерлік немесе медициналық пункт, стационарсыз", "en": "A first aid point — a paramedic or medical post without inpatient care" } },
+      { "id": "c", "text": { "ru": "Аптеку", "kk": "Дәріхананы", "en": "A pharmacy" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "7.1 обозначает пункт первой медицинской помощи: фельдшерский пункт, медпункт, где могут оказать первую помощь.",
+      "kk": "7.1 алғашқы медициналық көмек пунктін білдіреді: фельдшерлік, медициналық пункт.",
+      "en": "7.1 marks a first aid point such as a paramedic or medical post where first aid can be given."
+    },
+    "pdDRefs": [{ "chapter": "8" }],
+    "signIds": ["s_7.1"],
+    "difficulty": 1,
+    "tags": ["signs"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_08",
+    "category": "B",
+    "topicIds": ["signs-warning"],
+    "text": {
+      "ru": "Что обозначает число 10% на знаке 1.11.1 «Крутой спуск»?",
+      "kk": "1.11.1 «Крутой құлау» белгісіндегі 10% не білдіреді?",
+      "en": "What does the number 10% on sign 1.11.1 “Steep descent” mean?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Крутизну спуска в процентах", "kk": "Құлаудың крутизнасын пайызбен", "en": "The steepness of the descent in percent" } },
+      { "id": "b", "text": { "ru": "Ограничение скорости до 10 км/ч", "kk": "Жылдамдықты 10 км/сағ-қа дейін шектеу", "en": "A speed limit of 10 km/h" } },
+      { "id": "c", "text": { "ru": "Расстояние до опасного участка", "kk": "Қауіпті учаскенинге дейінгі қашықтық", "en": "The distance to the hazardous section" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Число на знаках 1.11.1 и 1.11.2 показывает крутизну спуска или подъёма в процентах. 10% означает, что дорога опускается на 10 метров на каждые 100 метров пути.",
+      "kk": "1.11.1 және 1.11.2 белгілеріндегі сан құлау не өрдің крутизнасын пайызбен көрсетеді. 10% — 100 метр жолда 10 метрге төмен.",
+      "en": "The number on signs 1.11.1 and 1.11.2 shows the gradient of the descent or ascent in percent. 10% means a drop of 10 metres per 100 metres of road."
+    },
+    "pdDRefs": [{ "chapter": "8" }],
+    "signIds": ["s_1.11.1"],
+    "difficulty": 1,
+    "tags": ["signs"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_09",
+    "category": "B",
+    "topicIds": ["signs-special", "safety"],
+    "text": {
+      "ru": "Что запрещает знак 5.1 «Автомагистраль»?",
+      "kk": "5.1 «Автомагистраль» белгісі нені тыйымдайды?",
+      "en": "What does sign 5.1 “Motorway” prohibit?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Ничего не запрещает", "kk": "Ештеңе тыйымдамайды", "en": "Nothing at all" } },
+      { "id": "b", "text": { "ru": "Запрещает движение пешеходов, велосипедов, мопедов, тихоходных ТС и учебную езду", "kk": "Жаяу жүргіншілер, велосипедшілер, мопедтер, баяу көліктер және оқыту жүргізуге тыйым", "en": "Prohibits pedestrians, bicycles, mopeds, slow vehicles and driving instruction" } },
+      { "id": "c", "text": { "ru": "Запрещает обгон", "kk": "Жағалай айналып өтуге тыйым салады", "en": "Prohibits overtaking" } }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "На автомагистрали запрещены движение пешеходов, велосипедов, мопедов, тракторов и других тихоходных ТС, а также учебная езда и буксировка.",
+      "kk": "Автомагистральда жаяу жүргіншілер, велосипедтер, мопедтер, тракторлар мен басқа баяу көліктердің қозғалысына тыйым, сондай-ақ оқыту жүргізуге тыйым.",
+      "en": "Motorways prohibit pedestrians, bicycles, mopeds, tractors and other slow vehicles, as well as driving instruction and towing."
+    },
+    "pdDRefs": [{ "chapter": "15" }],
+    "signIds": ["s_5.1"],
+    "difficulty": 2,
+    "tags": ["signs", "motorway"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_signs_10",
+    "category": "B",
+    "topicIds": ["signs-prohib"],
+    "text": {
+      "ru": "Что означает знак 3.1 «Въезд запрещён»?",
+      "kk": "3.1 «Кіруге тыйым» белгісі нені білдіреді?",
+      "en": "What does sign 3.1 “No entry” mean?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Въезд всех транспортных средств запрещён, в том числе с этого направления на дорогу с односторонним движением", "kk": "Барлық көлікке кіру тыйым, соның ішінде бір бағытты жолға", "en": "Entry for all vehicles is prohibited, including from this direction onto a one-way road" } },
+      { "id": "b", "text": { "ru": "Разрешён въезд только маршрутным транспортным средствам", "kk": "Тек маршруттық көлікке кіруге рұқсат", "en": "Entry is allowed only for public transport" } },
+      { "id": "c", "text": { "ru": "Разрешён только разворот", "kk": "Тек бұрылысқа рұқсат", "en": "Only U-turns are allowed" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "3.1 «кирпич» полностью запрещает въезд: обычно он стоит на въезде на одностороннюю дорогу или на полосу, выделенную для маршрутных ТС, а также на прилегающую территорию.",
+      "kk": "3.1 «кірпіш» кіруге толық тыйым салады: әдетте бір бағытты жолға, маршруттық көлік жолағына кіру алдында тұрады.",
+      "en": "Sign 3.1 “brick” bans entry completely: it is usually placed at the entrance to a one-way street or a bus lane."
+    },
+    "pdDRefs": [{ "chapter": "8" }],
+    "signIds": ["s_3.1"],
+    "difficulty": 1,
+    "tags": ["signs", "prohibitory"],
+    "source": "pdd-kz authoring"
+  }
+]

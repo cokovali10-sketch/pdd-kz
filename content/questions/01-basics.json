@@ -1,0 +1,370 @@
+[
+  {
+    "id": "q_basics_01",
+    "category": "B",
+    "topicIds": ["common"],
+    "text": {
+      "ru": "Что означает термин «уступить дорогу (не создавать помех)»?",
+      "kk": "«Жол беру (кедергі келтірмеу)» термині нені білдіреді?",
+      "en": "What does the term “give way (do not interfere)” mean?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Требование не начинать движение из занимаемого положения, если это вынудит других участников движения изменить направление или скорость",
+          "kk": "Басқа қатысушылардың бағытын немесе жылдамдығын өзгертуге мәжбүрлемеу үшін алынған орыннан қозғалмау талабы",
+          "en": "A requirement not to start moving from your position if that would force another road user to change direction or speed"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Требование полностью остановиться перед любым перекрёстком",
+          "kk": "Кез келген қиылыстан бұрын толық тоқтау талабы",
+          "en": "A requirement to come to a complete stop before any intersection"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Требование проехать первым, включив аварийную сигнализацию",
+          "kk": "Апастық сигналдауды қосып, бірінші болып өту талабы",
+          "en": "A requirement to go first with hazard lights switched on"
+        }
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "«Уступить дорогу» — значит не создавать помех: не начинать, не продолжать и не возобновлять движение, если это вынудит другого участника изменить направление или скорость.",
+      "kk": "«Жол беру» — кедергі келтірмеу: басқа қатысушыға бағытын немесе жылдамдығын өзгертуге мәжбүрлемеу.",
+      "en": "“Give way” means not creating interference: do not start, continue or resume manoeuvring if it forces another road user to change direction or speed."
+    },
+    "pdDRefs": [{ "chapter": "1", "point": "1.2" }],
+    "difficulty": 1,
+    "tags": ["terms"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_02",
+    "category": "B",
+    "topicIds": ["common", "parking"],
+    "text": {
+      "ru": "Чем «остановка» отличается от «стоянки»?",
+      "kk": "«Тоқтау» мен «тұрақ» қалай ерекшеленеді?",
+      "en": "How does a “stop” differ from “parking”?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Остановка — преднамеренное прекращение движения до 5 минут или дольше для посадки, высадки, погрузки или разгрузки; стоянка — более 5 минут, не связанное с этими действиями",
+          "kk": "Тоқтау — 5 минутқа дейін немесе одан көп, отырғызу, түсіру, жүктеу, түсіру мақсатындағы әдейі тоқтау; тұрақ — осы әрекеттермен байланысты емес, 5 минуттан асатын тоқтау",
+          "en": "A stop is a deliberate halt of up to 5 minutes, or longer for boarding, alighting, loading or unloading; parking is a halt longer than 5 minutes not connected with those actions"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Остановка — это стоянка до 30 минут, а стоянка — от 30 минут и дольше",
+          "kk": "Тоқтау — 30 минутқа дейінгі тұрақ, ал тұрақ — 30 минуттан кейін",
+          "en": "A stop is parking for up to 30 minutes, parking is 30 minutes or more"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Разницы нет: это одно и то же",
+          "kk": "Айырмашылығы жоқ: бұл — бір нәрсе",
+          "en": "There is no difference: they are the same thing"
+        }
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Ключ — причина прекращения движения. Посадка и высадка пассажиров, погрузка и разгрузка — это остановка, даже если это заняло больше 5 минут. Всё остальное дольше 5 минут — стоянка.",
+      "kk": "Негізгі белгі — қозғалысты тоқтату себебі. Жолаушыларды отырғызу-түсіру, жүктеу-түсіру — 5 минуттан асса да тоқтау болып табылады. Қалғандары — тұрақ.",
+      "en": "The key is the reason for stopping. Boarding or alighting passengers and loading or unloading count as a stop even if longer than 5 minutes. Anything else longer than 5 minutes is parking."
+    },
+    "pdDRefs": [{ "chapter": "1", "point": "1.2" }],
+    "difficulty": 1,
+    "tags": ["terms", "parking"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_03",
+    "category": "B",
+    "topicIds": ["common"],
+    "text": {
+      "ru": "Кто считается водителем транспортного средства?",
+      "kk": "Көлік құралының жүргізушісі деп кім есептеледі?",
+      "en": "Who is considered the driver of a vehicle?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Только лицо, имеющее водительское удостоверение",
+          "kk": "Тек жүргізуші куәлігі бар адам",
+          "en": "Only a person holding a driving licence"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Лицо, управляющее транспортным средством, в том числе обучающий вождению",
+          "kk": "Көлік құралын басқарып отырған адам, оның ішінде жүргізуді үйретіп жүрген адам",
+          "en": "A person driving a vehicle, including a person teaching someone to drive"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Только собственник транспортного средства",
+          "kk": "Тек көлік құралының иесі",
+          "en": "Only the owner of the vehicle"
+        }
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Водитель — это тот, кто управляет транспортным средством. Обучающий вождению считается водителем, если находится в автомобиле и имеет право на обучение.",
+      "kk": "Жүргізуші — көлік құралын басқарып отырған адам. Жүргізуді үйретуші де, көлікте отырып, үйрету құқығы болса, жүргізуші болып есептеледі.",
+      "en": "A driver is a person driving the vehicle. An instructor counts as a driver when in the vehicle with a valid teaching authorisation."
+    },
+    "pdDRefs": [{ "chapter": "1", "point": "1.2" }],
+    "difficulty": 1,
+    "tags": ["terms"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_04",
+    "category": "B",
+    "topicIds": ["common"],
+    "text": {
+      "ru": "Что такое «разрешённая максимальная масса» транспортного средства?",
+      "kk": "«Рұқсат етілген максималды масса» деген не?",
+      "en": "What is the “permitted maximum mass” of a vehicle?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Масса снаряжённого транспортного средства без груза, водителя и пассажиров",
+          "kk": "Жүксіз, жүргізушісіз және жолаушысыз дайын көлік құралының массасы",
+          "en": "The mass of the vehicle with no load, driver or passengers"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Масса транспортного средства с грузом, водителем и пассажирами, установленная производителем как максимально допустимая",
+          "kk": "Жүкпен, жүргізушімен және жолаушылармен, өндіруші белгілеген рұқсат етілген ең жоғарғы масса",
+          "en": "The mass of the vehicle with load, driver and passengers that the manufacturer sets as the maximum allowed"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Масса только груза, перевозимого в транспортном средстве",
+          "kk": "Тек көлікте тасымалданатын жүктің массасы",
+          "en": "Only the mass of the cargo carried in the vehicle"
+        }
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Разрешённая максимальная масса — это наибольшая масса полностью снаряжённого и загруженного транспортного средства, указанная изготовителем.",
+      "kk": "Рұқсат етілген максималды масса — толық жабдықталған және жүктелген көліктің өндіруші көрсеткен ең үлкен массасы.",
+      "en": "Permitted maximum mass is the heaviest fully equipped and loaded vehicle mass stated by the manufacturer."
+    },
+    "pdDRefs": [{ "chapter": "1", "point": "1.2" }],
+    "difficulty": 2,
+    "tags": ["terms"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_05",
+    "category": "B",
+    "topicIds": ["documents"],
+    "text": {
+      "ru": "Какие документы водитель обязан иметь при себе и передавать для проверки?",
+      "kk": "Жүргізуші қандай құжаттарды өзімен ұстап, тексеруге тапсыруға міндетті?",
+      "en": "Which documents must the driver carry and hand over for inspection?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Только водительское удостоверение",
+          "kk": "Тек жүргізуші куәлігі",
+          "en": "Only the driving licence"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Водительское удостоверение, свидетельство о регистрации транспортного средства и страховку (полис ОСГПО ВТС)",
+          "kk": "Жүргізуші куәлігі, көлікті тіркеу туралы куәлік және сақтандыру (ОСГПО полисі)",
+          "en": "Driving licence, vehicle registration certificate and insurance (compulsory motor TPL policy)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Достаточно электронного водительского удостоверения в телефоне, документы возить не нужно",
+          "kk": "Телефондағы электронды жүргізуші куәлігі жеткілікті, құжаттарды алып жүрудің қажеті жоқ",
+          "en": "An electronic driving licence in a phone is enough, no paper documents are needed"
+        }
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Водитель обязан иметь при себе водительское удостоверение, свидетельство о регистрации ТС и страховой полис. Электронный документ не заменяет бумажный, если он не предусмотрен отдельно.",
+      "kk": "Жүргізуші жүргізуші куәлігін, көлікті тіркеу куәлігін және сақтандыру полисін өзімен ұстауы керек. Электронды құжат бөлек көзделмесе, қағаз құжатын алмайды.",
+      "en": "The driver must carry the driving licence, the vehicle registration certificate and the insurance policy. An electronic document does not replace the paper one unless separately provided for."
+    },
+    "pdDRefs": [{ "chapter": "2", "point": "2.1" }],
+    "difficulty": 1,
+    "tags": ["documents"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_06",
+    "category": "B",
+    "topicIds": ["safety", "traffic-lights"],
+    "text": {
+      "ru": "В каких случаях требуется включать аварийную сигнализацию?",
+      "kk": "Қандай жағдайда апастық сигналдауды қосу керек?",
+      "en": "When must hazard warning lights be switched on?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Только при ДТП",
+          "kk": "Тек жол-көлік оқиғасында",
+          "en": "Only after a road traffic accident"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "При ДТП, при вынужденной остановке в местах с ограниченной видимостью, при ослеплении светом встречного автомобиля и при буксировке",
+          "kk": "ЖКО-да, көріну нашар жерлерде мәжбүрлі тоқтағанда, қарсы көліктің жарығынан көзі шақшағанда және сүйреу кезінде",
+          "en": "After a collision, at a forced stop where visibility is limited, when dazzled by oncoming headlights, and while towing"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Только при остановке в неположенном месте",
+          "kk": "Тек тиым салынган жерде тоқтағанда",
+          "en": "Only when stopping in a prohibited place"
+        }
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Аварийная сигнализация предупреждает других участников об опасности: ДТП, вынужденная остановка там, где плохо видно, ослепление, буксировка, а также при посадке детей-инвалидов.",
+      "kk": "Апастық сигналдау басқа қатысушыларды қауіп туралы ескертеді: ЖКО, нашар көрініп тұрған жерде мәжбүрлі тоқтау, көздің шақшуы, сүйреу, сондай-ақ мүгедек балаларды отырғызу.",
+      "en": "Hazard lights warn other road users of danger: a collision, a forced stop where visibility is poor, being dazzled, towing, and when boarding disabled children."
+    },
+    "pdDRefs": [{ "chapter": "7", "point": "7.1" }],
+    "difficulty": 1,
+    "tags": ["safety", "signalling"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_07",
+    "category": "B",
+    "topicIds": ["safety"],
+    "text": {
+      "ru": "Кто в легковом автомобиле обязан быть пристёгнутым ремнями безопасности?",
+      "kk": "Жеңіл автомобильде қауіпсіздік белдігін кім тағуы міндетті?",
+      "en": "Who in a passenger car must wear a seat belt?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "Только водитель",
+          "kk": "Тек жүргізуші",
+          "en": "Only the driver"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Водитель и все пассажиры, включая задние сиденья",
+          "kk": "Жүргізуші және барлық жолаушылар, артқы орындарды қоса",
+          "en": "The driver and all passengers, including those in the rear seats"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Только пассажиры переднего сиденья",
+          "kk": "Тек алдыңғы орын жолаушылары",
+          "en": "Only front-seat passengers"
+        }
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Ремнем пристёгиваются все находящиеся в автомобиле, в том числе на заднем сиденье. Исключения — только для отдельных категорий (например, транспорт оперативных служб).",
+      "kk": "Автомобильдегі барлық адам белдікпен тағынуы керек, артқы орынды қоса. Тек жекелеген санаттарға (мысалы, жедел қызметтер көлігі) ескерту жасалған.",
+      "en": "Everyone in the car wears a belt, including rear seats. Exceptions exist only for specific categories such as emergency service vehicles."
+    },
+    "pdDRefs": [{ "chapter": "2", "point": "2.1" }],
+    "difficulty": 1,
+    "tags": ["safety", "belts"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_basics_08",
+    "category": "B",
+    "topicIds": ["safety"],
+    "text": {
+      "ru": "Как перевозить ребёнка в возрасте до 7 лет в легковом автомобиле?",
+      "kk": "Жеңіл автомобильде 7 жасқа дейінгі баланы қалай тасымалдау керек?",
+      "en": "How must a child under 7 be carried in a passenger car?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "ru": "На руках у взрослого пассажира",
+          "kk": "Ересек жолаушының қолында",
+          "en": "On an adult passenger's lap"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "ru": "Только с использованием детского удерживающего устройства (автолюльки или детского кресла)",
+          "kk": "Тек балалар ұстау құрылғысын (автобеcік немесе балалар креслосы) пайдалану арқылы",
+          "en": "Only using a child restraint system (infant carrier or child seat)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "ru": "Достаточно пристегнуть обычным ремнём на переднем сиденье",
+          "kk": "Алдыңғы орында қалыпты белдікпен тағу жеткілікті",
+          "en": "An ordinary belt on the front seat is enough"
+        }
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": {
+      "ru": "Детей до 7 лет перевозят только в детском удерживающем устройстве, подобранном по весу и росту. Держать ребёнка на руках или пристёгивать штатным ремнём недопустимо.",
+      "kk": "7 жасқа дейінгі балаларды тек салмағы мен бойына сәйкес балалар ұстау құрылғысында тасымалдайды. Қолына ұстау немесе қалыпты белдікпен тағуға болмайды.",
+      "en": "Children under 7 travel only in a child restraint matched to their weight and height. Holding them on a lap or using only the standard belt is not allowed."
+    },
+    "pdDRefs": [{ "chapter": "22", "point": "22.9" }],
+    "difficulty": 1,
+    "tags": ["safety", "children"],
+    "source": "pdd-kz authoring"
+  }
+]

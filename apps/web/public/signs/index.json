@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-11-16T16:25:29.486Z",
+  "signs": [
+    {
+      "code": "1.1",
+      "file": "s_1.1.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.2.1",
+      "file": "s_1.2.1.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.5",
+      "file": "s_1.5.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.6",
+      "file": "s_1.6.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.11.1",
+      "file": "s_1.11.1.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.11.2",
+      "file": "s_1.11.2.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.12.1",
+      "file": "s_1.12.1.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.17",
+      "file": "s_1.17.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.20.2",
+      "file": "s_1.20.2.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.22",
+      "file": "s_1.22.svg",
+      "group": "warning"
+    },
+    {
+      "code": "1.25",
+      "file": "s_1.25.svg",
+      "group": "warning"
+    },
+    {
+      "code": "2.1",
+      "file": "s_2.1.svg",
+      "group": "priority"
+    },
+    {
+      "code": "2.3.1",
+      "file": "s_2.3.1.svg",
+      "group": "priority"
+    },
+    {
+      "code": "2.4",
+      "file": "s_2.4.svg",
+      "group": "priority"
+    },
+    {
+      "code": "2.5",
+      "file": "s_2.5.svg",
+      "group": "priority"
+    },
+    {
+      "code": "2.6",
+      "file": "s_2.6.svg",
+      "group": "priority"
+    },
+    {
+      "code": "2.7",
+      "file": "s_2.7.svg",
+      "group": "priority"
+    },
+    {
+      "code": "3.1",
+      "file": "s_3.1.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.2",
+      "file": "s_3.2.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.9",
+      "file": "s_3.9.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.10",
+      "file": "s_3.10.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.11",
+      "file": "s_3.11.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.12",
+      "file": "s_3.12.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.17.2",
+      "file": "s_3.17.2.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.18.1",
+      "file": "s_3.18.1.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.18.2",
+      "file": "s_3.18.2.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.20",
+      "file": "s_3.20.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.24",
+      "file": "s_3.24.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.25",
+      "file": "s_3.25.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "3.27",
+      "file": "s_3.27.svg",
+      "group": "prohibitory"
+    },
+    {
+      "code": "4.1.1",
+      "file": "s_4.1.1.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.1.2",
+      "file": "s_4.1.2.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.1.4",
+      "file": "s_4.1.4.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.2.1",
+      "file": "s_4.2.1.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.2.2",
+      "file": "s_4.2.2.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.3",
+      "file": "s_4.3.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.4.1",
+      "file": "s_4.4.1.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "4.5.1",
+      "file": "s_4.5.1.svg",
+      "group": "mandatory"
+    },
+    {
+      "code": "5.1",
+      "file": "s_5.1.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.2",
+      "file": "s_5.2.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.3",
+      "file": "s_5.3.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.5",
+      "file": "s_5.5.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.6",
+      "file": "s_5.6.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.11",
+      "file": "s_5.11.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.15.1",
+      "file": "s_5.15.1.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.16",
+      "file": "s_5.16.svg",
+      "group": "special"
+    },
+    {
+      "code": "5.20",
+      "file": "s_5.20.svg",
+      "group": "special"
+    },
+    {
+      "code": "6.2",
+      "file": "s_6.2.svg",
+      "group": "info"
+    },
+    {
+      "code": "6.4",
+      "file": "s_6.4.svg",
+      "group": "info"
+    },
+    {
+      "code": "6.8.1",
+      "file": "s_6.8.1.svg",
+      "group": "info"
+    },
+    {
+      "code": "6.9.1",
+      "file": "s_6.9.1.svg",
+      "group": "info"
+    },
+    {
+      "code": "6.15.1",
+      "file": "s_6.15.1.svg",
+      "group": "info"
+    },
+    {
+      "code": "7.1",
+      "file": "s_7.1.svg",
+      "group": "service"
+    },
+    {
+      "code": "7.2",
+      "file": "s_7.2.svg",
+      "group": "service"
+    },
+    {
+      "code": "7.3",
+      "file": "s_7.3.svg",
+      "group": "service"
+    },
+    {
+      "code": "7.5",
+      "file": "s_7.5.svg",
+      "group": "service"
+    },
+    {
+      "code": "7.8",
+      "file": "s_7.8.svg",
+      "group": "service"
+    },
+    {
+      "code": "7.9",
+      "file": "s_7.9.svg",
+      "group": "service"
+    },
+    {
+      "code": "8.2.1",
+      "file": "s_8.2.1.svg",
+      "group": "additional"
+    },
+    {
+      "code": "8.2.3",
+      "file": "s_8.2.3.svg",
+      "group": "additional"
+    },
+    {
+      "code": "8.2.4",
+      "file": "s_8.2.4.svg",
+      "group": "additional"
+    },
+    {
+      "code": "8.3.1",
+      "file": "s_8.3.1.svg",
+      "group": "additional"
+    },
+    {
+      "code": "8.3.2",
+      "file": "s_8.3.2.svg",
+      "group": "additional"
+    },
+    {
+      "code": "8.5.1",
+      "file": "s_8.5.1.svg",
+      "group": "additional"
+    },
+    {
+      "code": "8.5.4",
+      "file": "s_8.5.4.svg",
+      "group": "additional"
+    }
+  ],
+  "markings": [
+    {
+      "id": "1.1",
+      "file": "m_1.1.svg"
+    },
+    {
+      "id": "1.2",
+      "file": "m_1.2.svg"
+    },
+    {
+      "id": "1.5",
+      "file": "m_1.5.svg"
+    },
+    {
+      "id": "1.6",
+      "file": "m_1.6.svg"
+    },
+    {
+      "id": "1.7",
+      "file": "m_1.7.svg"
+    },
+    {
+      "id": "1.12",
+      "file": "m_1.12.svg"
+    },
+    {
+      "id": "1.14.1",
+      "file": "m_1.14.1.svg"
+    },
+    {
+      "id": "1.18",
+      "file": "m_1.18.svg"
+    },
+    {
+      "id": "1.20",
+      "file": "m_1.20.svg"
+    }
+  ]
+}

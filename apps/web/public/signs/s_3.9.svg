@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img"><circle cx="256" cy="256" r="232" fill="#ffffff" stroke="#d92b2b" stroke-width="44"/>
+    <g transform="translate(-26,-30) scale(0.72)" opacity="0.95">
+  <g transform="translate(0 0) scale(1)" fill="#101418">
+    <path d="M96,300 h300 q22,0 22,20 v34 h-344 v-34 q0,20 22,20 z"/>
+    <path d="M140,300 l46,-70 h140 l44,70 z"/>
+    <rect x="132" y="248" width="236" height="58" rx="16" opacity="0.95"/>
+    <circle cx="176" cy="356" r="30" fill="#101418"/><circle cx="176" cy="356" r="13" fill="#ffffff"/>
+    <circle cx="342" cy="356" r="30" fill="#101418"/><circle cx="342" cy="356" r="13" fill="#ffffff"/>
+  </g></g>
+    <g transform="translate(58,26) scale(0.72)">
+  <g transform="translate(0 0) scale(1)" fill="#d92b2b">
+    <path d="M96,300 h300 q22,0 22,20 v34 h-344 v-34 q0,20 22,20 z"/>
+    <path d="M140,300 l46,-70 h140 l44,70 z"/>
+    <rect x="132" y="248" width="236" height="58" rx="16" opacity="0.95"/>
+    <circle cx="176" cy="356" r="30" fill="#d92b2b"/><circle cx="176" cy="356" r="13" fill="#ffffff"/>
+    <circle cx="342" cy="356" r="30" fill="#d92b2b"/><circle cx="342" cy="356" r="13" fill="#ffffff"/>
+  </g></g></svg>

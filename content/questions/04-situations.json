@@ -1,0 +1,338 @@
+[
+  {
+    "id": "q_sit_01",
+    "category": "B",
+    "topicIds": ["intersection"],
+    "text": {
+      "ru": "Перекрёсток равнозначных дорог. Автомобиль A подъезжает с юга, автомобиль B — с востока. Кто проедет первым?",
+      "kk": "Тең дәрежелі жол қиылысы. A автомобильі оңтүстіктен, B шығыстан келеді. Кім бірінші өтеді?",
+      "en": "Junction of equal-priority roads. Car A approaches from the south, car B from the east. Who goes first?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Автомобиль B — он справа от A", "kk": "B — A-ның оңында", "en": "Car B — it is on A's right" } },
+      { "id": "b", "text": { "ru": "Автомобиль A — он движется первым", "kk": "A — ол бірінші қозғалды", "en": "Car A — it moved first" } },
+      { "id": "c", "text": { "ru": "Одновременно", "kk": "Бір уақытта", "en": "At the same time" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Дороги равнозначны, значит действует правило «помеха справа». Для A справа находится B — A уступает.",
+      "kk": "Жолдар тең дәрежелі, демек «оңнан кедергі» ережесі жұмыс істейді. A үшін оңда B тұр — A жол береді.",
+      "en": "The roads have equal priority, so “give way to the right” applies. B is on A's right, so A gives way."
+    },
+    "pdDRefs": [{ "chapter": "13" }],
+    "diagram": {
+      "type": "cross",
+      "arms": ["n", "e", "s", "w"],
+      "vehicles": [
+        { "id": "A", "arm": "s", "pos": 0.42, "turn": "straight", "kind": "car" },
+        { "id": "B", "arm": "e", "pos": 0.42, "turn": "straight", "kind": "car" }
+      ],
+      "caption": { "ru": "Равнозначный перекрёсток", "kk": "Тең дәрежелі қиылыс", "en": "Equal-priority junction" }
+    },
+    "difficulty": 2,
+    "tags": ["priority", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_02",
+    "category": "B",
+    "topicIds": ["intersection"],
+    "text": {
+      "ru": "Перекрёсток равнозначных дорог. A поворачивает налево, B движется навстречу прямо. Кому уступить?",
+      "kk": "Тең дәрежелі қиылыс. A солға бұрылады, B қарсы тура жүреді. Кімге жол беру керек?",
+      "en": "Junction of equal roads. A turns left, B goes straight towards you. Who must give way?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "A уступает B: при повороте налево нужно пропустить встречные", "kk": "A B-ге жол береді: солға бұрылғанда қарсыларды өткізу керек", "en": "A gives way to B: when turning left you must let oncoming traffic through" } },
+      { "id": "b", "text": { "ru": "B уступает A", "kk": "B A-ға жол береді", "en": "B gives way to A" } },
+      { "id": "c", "text": { "ru": "У кого первым включился поворотник", "kk": "Кім бірінші бұрылыс сигналын қосса", "en": "Whoever signalled first" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Трамектории пересекаются: A, поворачивая налево, обязан уступить встречному B, который едет прямо.",
+      "kk": "Траекториялар қиылысады: A солға бұрылғанда қарсы келе жатқан B-ге жол беруге міндетті.",
+      "en": "The paths cross: while turning left A must give way to oncoming B going straight ahead."
+    },
+    "pdDRefs": [{ "chapter": "13" }],
+    "diagram": {
+      "type": "cross",
+      "arms": ["n", "e", "s", "w"],
+      "vehicles": [
+        { "id": "A", "arm": "s", "pos": 0.34, "turn": "left", "kind": "car" },
+        { "id": "B", "arm": "n", "pos": 0.5, "turn": "straight", "kind": "car" }
+      ],
+      "caption": { "ru": "Поворот налево", "kk": "Солға бұрылыс", "en": "Left turn" }
+    },
+    "difficulty": 1,
+    "tags": ["priority", "diagram", "turn"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_03",
+    "category": "B",
+    "topicIds": ["intersection"],
+    "text": {
+      "ru": "Вы въезжаете на перекрёсток с круговым движением, по которому уже движется автомобиль. Кому уступить?",
+      "kk": "Сіз айналма қозғалысты қиылысқа кіресіз, оның бойымен көлік келе жатыр. Кімге жол беру керек?",
+      "en": "You enter a roundabout where a car is already circulating. Who must give way?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Вам: автомобиль на круге имеет преимущество", "kk": "Сізге: айналымдағы көліктің артықшылығы бар", "en": "You: the car on the roundabout has priority" } },
+      { "id": "b", "text": { "ru": "Автомобилю на круге: вы въезжаете первым", "kk": "Айналымдағы көлікке: сіз бірінші кіресіз", "en": "The car on the roundabout: you are entering first" } },
+      { "id": "c", "text": { "ru": "Никто, если на круге нет знаков приоритета", "kk": "Ешкім, айналымда артықшылық белгісі болмаса", "en": "Nobody, if there are no priority signs" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "По общему правилу въезжающий на круг уступает тем, кто уже движется по кругу. Знаки приоритета могут изменить этот порядок — тогда действуют знаки.",
+      "kk": "Жалпы ереже бойынша айналымға кіруші айналып келе жатқандарға жол береді. Артықшылық белгісі бұл тәртіпті өзгертуі мүмкін.",
+      "en": "Under the general rule the entering driver yields to traffic already on the roundabout. Priority signs can change this — then the signs apply."
+    },
+    "pdDRefs": [{ "chapter": "13" }],
+    "diagram": {
+      "type": "roundabout",
+      "vehicles": [
+        { "id": "YOU", "arm": "s", "pos": 0.3, "kind": "car" },
+        { "id": "B", "arm": "w", "pos": 0.1, "kind": "car", "onCircle": true }
+      ],
+      "caption": { "ru": "Круговое движение", "kk": "Айналма қозғалыс", "en": "Roundabout" }
+    },
+    "difficulty": 1,
+    "tags": ["roundabout", "priority", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_04",
+    "category": "B",
+    "topicIds": ["intersection"],
+    "text": {
+      "ru": "Вы выезжаете из жилого двора. По дороге справа движется автомобиль. Ваши действия?",
+      "kk": "Сіз тұрғын ауладан шығасыз. Жол бойымен оңнан көлік келеді. Әрекетіңіз?",
+      "en": "You are leaving a residential yard. A car approaches along the road. What do you do?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Уступить дорогу: выезд с прилегающей территории — вы обязаны пропустить всех", "kk": "Жол беру: ірі жерден шығу — бәрін өткізу міндетті", "en": "Give way: leaving an adjoining area means you must let everyone pass" } },
+      { "id": "b", "text": { "ru": "Проехать первым, двор — тоже дорога", "kk": "Бірінші өту, аула да — жол", "en": "Go first, a yard is a road too" } },
+      { "id": "c", "text": { "ru": "Подать сигнал и продолжить выезд", "kk": "Сигнал беріп, шығуды жалғастыру", "en": "Sound the horn and continue" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Прилегающая территория не приравнивается к перекрёстку: выезжая с неё, водитель обязан уступить дорогу всем транспортным средствам и пешеходам.",
+      "kk": "І жер қиылыспен теңестірілмейді: одан шыққанда жүргізуші барлық көлік пен жаяу жүргіншілерге жол беруге міндетті.",
+      "en": "An adjoining area is not an intersection: leaving it, the driver must yield to all vehicles and pedestrians."
+    },
+    "pdDRefs": [{ "chapter": "13" }],
+    "diagram": {
+      "type": "cross",
+      "arms": ["n", "e", "s", "w"],
+      "yard": { "arm": "w", "pos": 0.45 },
+      "vehicles": [
+        { "id": "YOU", "arm": "w", "pos": 0.45, "kind": "car", "fromYard": true },
+        { "id": "B", "arm": "e", "pos": 0.45, "kind": "car" }
+      ],
+      "caption": { "ru": "Выезд со двора", "kk": "Ауладан шығу", "en": "Leaving a yard" }
+    },
+    "difficulty": 1,
+    "tags": ["priority", "yard", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_05",
+    "category": "B",
+    "topicIds": ["intersection"],
+    "text": {
+      "ru": "На перекрёстке равнозначных дорог трамвай движется прямо, автомобиль поворачивает налево. Кто проедет первым?",
+      "kk": "Тең дәрежелі қиылыста трамвай тура жүреді, автомобиль солға бұрылады. Кім бірінші өтеді?",
+      "en": "At an equal-priority junction a tram goes straight, a car turns left. Who goes first?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Трамвай: на равнозначных дорогах трамвай имеет преимущество", "kk": "Трамвай: тең жолда трамвай артықшылыққа ие", "en": "The tram: on equal roads trams have priority" } },
+      { "id": "b", "text": { "ru": "Автомобиль: он поворачивает налево", "kk": "Автомобиль: ол солға бұрылады", "en": "The car: it is turning left" } },
+      { "id": "c", "text": { "ru": "Кто первым подъехал к перекрёстку", "kk": "Кім қиылысқа бірінші келсе", "en": "Whoever reached the junction first" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "На равнозначных дорогах трамвай имеет преимущество перед безрельсовыми транспортными средствами независимо от направления движения.",
+      "kk": "Тең дәрежелі жолда трамвай бағытқа қарамастан, рельссіз көліктерден артықшылыққа ие.",
+      "en": "On equal-priority roads trams have priority over other vehicles regardless of direction."
+    },
+    "pdDRefs": [{ "chapter": "13" }],
+    "diagram": {
+      "type": "cross",
+      "arms": ["n", "e", "s", "w"],
+      "vehicles": [{ "id": "CAR", "arm": "s", "pos": 0.4, "turn": "left", "kind": "car" }],
+      "trams": [{ "id": "T", "arm": "w", "pos": 0.4 }],
+      "caption": { "ru": "Трамвай имеет преимущество", "kk": "Трамвай артықшылыққа ие", "en": "Tram has priority" }
+    },
+    "difficulty": 2,
+    "tags": ["tram", "priority", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_06",
+    "category": "B",
+    "topicIds": ["pedestrians", "intersection"],
+    "text": {
+      "ru": "Пешеход находится на нерегулируемом пешеходном переходе. Ваши действия?",
+      "kk": "Жаяу жүргінші реттелмейтін өткелде тұр. Сіздің әрекетіңіз?",
+      "en": "A pedestrian is on an unsignalised pedestrian crossing. What do you do?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Остановиться и пропустить пешехода", "kk": "Тоқтап, жаяуды өткізу", "en": "Stop and let the pedestrian cross" } },
+      { "id": "b", "text": { "ru": "Проехать, если успеваете до перехода", "kk": "Үлгерсеңіз, өтіп кету", "en": "Drive through if you can clear it in time" } },
+      { "id": "c", "text": { "ru": "Объехать по встречной полосе", "kk": "Қарсы жолақпен айналып өту", "en": "Go around using the oncoming lane" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Пешеход на нерегулируемом переходе имеет преимущество. Водитель обязан остановиться и пропустить его, не вынуждая менять скорость или направление.",
+      "kk": "Реттелмейтін өткелде жаяудың артықшылығы бар. Жүргізуші тоқтап, оны өткізуге міндетті.",
+      "en": "On an unsignalised crossing pedestrians have priority. The driver must stop and let them cross without forcing a change of speed or direction."
+    },
+    "pdDRefs": [{ "chapter": "14" }, { "chapter": "4" }],
+    "diagram": {
+      "type": "straight",
+      "lanes": 2,
+      "vehicles": [{ "id": "YOU", "arm": "s", "pos": 0.62, "kind": "car" }],
+      "crossings": [{ "pos": 0.42 }],
+      "pedestrians": [{ "arm": "s", "pos": 0.42 }],
+      "caption": { "ru": "Нерегулируемый переход", "kk": "Реттелмейтін өткел", "en": "Unsignalised crossing" }
+    },
+    "difficulty": 1,
+    "tags": ["pedestrians", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_07",
+    "category": "B",
+    "topicIds": ["intersection", "signs-priority"],
+    "text": {
+      "ru": "На перекрёстке знак 2.1 установлен на дороге, идущей с севера на юг. Автомобиль едет по дороге с востока на запад. Кто уступит?",
+      "kk": "Қиылыста 2.1 белгісі солтүстіктен оңтүстікке жолда. Автомобиль шығыстан батысқа келеді. Кім жол береді?",
+      "en": "At the junction sign 2.1 is on the north–south road. A car travels west along the other road. Who gives way?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Автомобиль, едущий с востока: он на второстепенной дороге", "kk": "Шығыстан келе жатқан: ол қосалқы жолда", "en": "The car from the east: it is on the secondary road" } },
+      { "id": "b", "text": { "ru": "Автомобиль на главной дороге", "kk": "Басты жолдағы автомобиль", "en": "The car on the main road" } },
+      { "id": "c", "text": { "ru": "У кого скорость ниже", "kk": "Жылдамдығы төмен", "en": "The slower one" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Знак 2.1 делает север–южную дорогу главной. Водитель на второстепенной дороге обязан уступить всем, кто едет по главной.",
+      "kk": "2.1 белгісі солтүстік–оңтүстік жолды басты етеді. Қосалқы жолдағы жүргізуші басты жолдағыларға жол беруге міндетті.",
+      "en": "Sign 2.1 makes the north–south road main. The driver on the secondary road must yield to everyone on the main road."
+    },
+    "pdDRefs": [{ "chapter": "13" }, { "chapter": "8" }],
+    "diagram": {
+      "type": "cross",
+      "arms": ["n", "e", "s", "w"],
+      "main": ["n", "s"],
+      "signs": [{ "code": "2.1", "arm": "n", "side": "right" }],
+      "vehicles": [
+        { "id": "MAIN", "arm": "n", "pos": 0.42, "kind": "car" },
+        { "id": "SIDE", "arm": "e", "pos": 0.42, "kind": "car" }
+      ],
+      "caption": { "ru": "Главная дорога — с севера на юг", "kk": "Басты жол — солтүстіктен оңтүстікке", "en": "Main road runs north–south" }
+    },
+    "difficulty": 2,
+    "tags": ["priority", "signs", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_08",
+    "category": "B",
+    "topicIds": ["intersection", "traffic-lights"],
+    "text": {
+      "ru": "Для вашего направления горит красный. Перекрёсток уже занят автомобилем, который завершает манёвр. Ваши действия?",
+      "kk": "Сіздің бағытыңызда қызыл жанып тұр. Қиылыста маневрді аяқтап жатқан көлік бар. Әрекетіңіз?",
+      "en": "Your direction has a red light. A vehicle is still finishing its manoeuvre in the junction. What do you do?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Ждать перед стоп-линией и не выезжать на перекрёсток", "kk": "Тоқтау сызығының алдында күтіп, қиылысқа шықпау", "en": "Wait behind the stop line and do not enter the junction" } },
+      { "id": "b", "text": { "ru": "Выехать, но уступить завершающему манёвр", "kk": "Шығу, бірақ маневрді аяқтап жатқанға жол беру", "en": "Enter, but give way to the vehicle finishing its manoeuvre" } },
+      { "id": "c", "text": { "ru": "Проехать, если красный горит меньше 5 секунд", "kk": "Қызыл 5 секундтан аз жанса, өту", "en": "Go through if the red has been on for less than 5 seconds" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Красный сигнал запрещает движение. На перекрёсток можно выезжать только при зелёном (или при завершении манёвра, нача́того ранее), не создавая помех.",
+      "kk": "Қызыл сигнал қозғалысқа тыйым. Қиылысқа тек жасылда шығуға болады, кедергі келтірмей.",
+      "en": "A red light prohibits movement. You may enter the junction only on green, without creating interference."
+    },
+    "pdDRefs": [{ "chapter": "6" }],
+    "diagram": {
+      "type": "cross",
+      "arms": ["n", "e", "s", "w"],
+      "lights": [{ "arm": "s", "state": "red" }],
+      "vehicles": [{ "id": "OTHER", "arm": "w", "pos": 0.18, "kind": "car" }],
+      "caption": { "ru": "Красный для вашего направления", "kk": "Сіздің бағытыңызда қызыл", "en": "Red for your direction" }
+    },
+    "difficulty": 1,
+    "tags": ["signals", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_09",
+    "category": "B",
+    "topicIds": ["overtaking", "markings"],
+    "text": {
+      "ru": "Дорога двухполосная, впереди пешеходный переход. Автомобиль A движется за автомобилем B и намеревается его обогнать. Можно ли?",
+      "kk": "Жол екі жолақты, алда жаяу өткелі. A көлігі B-нің соңында келе жатыр және оны жағалай айналып өткісі келеді. Бола ма?",
+      "en": "The road has two lanes and a pedestrian crossing ahead. Car A is behind car B and wants to overtake. Is it allowed?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Нет: обгон на пешеходном переходе и перед ним запрещён", "kk": "Жоқ: жаяу өткелінде және одан бұрын жағалай айналып өтуге тыйым", "en": "No: overtaking on a pedestrian crossing or before it is prohibited" } },
+      { "id": "b", "text": { "ru": "Да, если встречная полоса свободна", "kk": "Иә, қарсы жолақ бос болса", "en": "Yes, if the oncoming lane is clear" } },
+      { "id": "c", "text": { "ru": "Да, но только на скорости не более 40 км/ч", "kk": "Иә, тек 40 км/сағ-тан аспайтын жылдамдықпен", "en": "Yes, but at no more than 40 km/h" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "Обгон на пешеходном переходе запрещён. Переход находится впереди, значит обгон начинать нельзя — тем более что обгоняемый может закрывать обзор.",
+      "kk": "Жаяу өткелінде жағалай айналып өтуге тыйым. Өткел алда, демек бастауға болмайды.",
+      "en": "Overtaking on a pedestrian crossing is prohibited. The crossing is ahead, so you must not start overtaking."
+    },
+    "pdDRefs": [{ "chapter": "11" }],
+    "diagram": {
+      "type": "straight",
+      "lanes": 2,
+      "vehicles": [
+        { "id": "B", "arm": "s", "pos": 0.34, "kind": "car" },
+        { "id": "A", "arm": "s", "pos": 0.6, "kind": "car" }
+      ],
+      "crossings": [{ "pos": 0.16 }],
+      "caption": { "ru": "Пешеходный переход впереди", "kk": "Алда жаяу өткелі", "en": "Pedestrian crossing ahead" }
+    },
+    "difficulty": 2,
+    "tags": ["overtaking", "markings", "diagram"],
+    "source": "pdd-kz authoring"
+  },
+  {
+    "id": "q_sit_10",
+    "category": "B",
+    "topicIds": ["intersection", "bicycle"],
+    "text": {
+      "ru": "Вы поворачиваете направо. Справа от вас по велосипедной дорожке едет велосипедист прямо. Ваши действия?",
+      "kk": "Сіз оңға бұрыласыз. Оңыңызда велосипед жолымен велосипедші тура келеді. Әрекетіңіз?",
+      "en": "You turn right. A cyclist is riding straight along the cycle track on your right. What do you do?"
+    },
+    "options": [
+      { "id": "a", "text": { "ru": "Уступить велосипедисту: при повороте направо нельзя создавать помеху движущимся прямо велосипедистам", "kk": "Велосипедшіге жол беру: оңға бұрылғанда тура келе жатқан велосипедшіге кедергі келтіруге болмайды", "en": "Give way to the cyclist: when turning right you must not obstruct cyclists going straight" } },
+      { "id": "b", "text": { "ru": "Проехать первым: велосипедист должен уступить автомобилю", "kk": "Бірінші өту: велосипедші автокөлікке жол беруі керек", "en": "Go first: the cyclist must give way to the car" } },
+      { "id": "c", "text": { "ru": "Сигналить и продолжить поворот", "kk": "Сигнал беріп, бұрылысты жалғастыру", "en": "Sound the horn and continue the turn" } }
+    ],
+    "correctOptionId": "a",
+    "explanation": {
+      "ru": "При повороте направо водитель обязан уступить велосипедистам и пешеходам, движущимся прямо в том же направлении по велосипедной дорожке или тротуару.",
+      "kk": "Оңға бұрылғанда жүргізуші велосипед жолымен тура келе жатқан велосипедшілер мен жаяу жүргіншілерге жол беруге міндетті.",
+      "en": "When turning right the driver must give way to cyclists and pedestrians going straight along a cycle track or pavement."
+    },
+    "pdDRefs": [{ "chapter": "13" }, { "chapter": "24" }],
+    "diagram": {
+      "type": "straight",
+      "lanes": 2,
+      "vehicles": [{ "id": "YOU", "arm": "s", "pos": 0.55, "turn": "right", "kind": "car" }],
+      "bikes": [{ "id": "C", "arm": "s", "pos": 0.32, "side": "right" }],
+      "caption": { "ru": "Поворот направо и велосипедист", "kk": "Оңға бұрылыс және велосипедші", "en": "Right turn and a cyclist" }
+    },
+    "difficulty": 2,
+    "tags": ["bicycle", "turn", "diagram"],
+    "source": "pdd-kz authoring"
+  }
+]

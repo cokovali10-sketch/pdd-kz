@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kz_b",
+    "category": "B",
+    "name": { "ru": "Экзамен категории B", "kk": "B санатының емтиханы", "en": "Category B exam" },
+    "questions": 20,
+    "minutes": 20,
+    "maxErrors": 2,
+    "passRule": "maxErrorsExceededOrTime",
+    "revealAnswers": true,
+    "shuffleQuestions": true,
+    "shuffleOptions": false,
+    "sourceNote": {
+      "ru": "Параметры вынесены в конфиг и требуют сверки с действующей редакцией Правил проведения квалификационных экзаменов.",
+      "kk": "Параметрлер конфигурацияға шығарылды және қолданыстағы ережелермен салыстыруды қажет етеді.",
+      "en": "Parameters are configurable and must be verified against the current official examination rules."
+    }
+  },
+  {
+    "id": "kz_b_training",
+    "category": "B",
+    "name": { "ru": "Тренировка без лимита", "kk": "Шектеусіз жаттығу", "en": "Unlimited practice" },
+    "questions": 20,
+    "minutes": 0,
+    "maxErrors": 0,
+    "passRule": "none",
+    "revealAnswers": true,
+    "shuffleQuestions": true,
+    "shuffleOptions": false,
+    "sourceNote": {
+      "ru": "Свободный режим: без таймера и без лимита ошибок.",
+      "kk": "Еркін режим: таймерсіз және қателер шегінсіз.",
+      "en": "Free mode: no timer and no error limit."
+    }
+  }
+]

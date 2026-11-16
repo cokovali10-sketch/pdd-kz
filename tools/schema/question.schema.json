@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jolbilet.app/schemas/question.json",
+  "title": "JolBilet Question",
+  "description": "Schema for a single exam question in the JolBilet content bundle",
+  "type": "object",
+  "required": ["id", "category", "topicIds", "text", "options", "correctOptionId", "explanation", "pdDRefs", "difficulty", "source"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^q_[a-z0-9_]+$" },
+    "category": { "type": "string", "enum": ["A", "B", "C", "D", "BE", "CE", "DE"] },
+    "topicIds": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "text": { "$ref": "#/$defs/localized" },
+    "options": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/option" },
+      "minItems": 2,
+      "maxItems": 6
+    },
+    "correctOptionId": { "type": "string" },
+    "explanation": { "$ref": "#/$defs/localized" },
+    "pdDRefs": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/pddRef" },
+      "minItems": 1
+    },
+    "signIds": { "type": "array", "items": { "type": "string", "pattern": "^s_[0-9.]+$" } },
+    "diagram": { "$ref": "#/$defs/diagram" },
+    "difficulty": { "type": "integer", "minimum": 1, "maximum": 3 },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "source": { "type": "string" }
+  },
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "required": ["ru", "kk", "en"],
+      "properties": {
+        "ru": { "type": "string", "minLength": 1 },
+        "kk": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    },
+    "option": {
+      "type": "object",
+      "required": ["id", "text"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]$" },
+        "text": { "$ref": "#/$defs/localized" }
+      }
+    },
+    "pddRef": {
+      "type": "object",
+      "required": ["chapter"],
+      "properties": {
+        "chapter": { "type": "string" },
+        "point": { "type": "string" }
+      }
+    },
+    "diagram": {
+      "type": "object",
+      "required": ["type", "vehicles"],
+      "properties": {
+        "type": { "type": "string", "enum": ["cross", "roundabout", "straight"] },
+        "arms": { "type": "array", "items": { "type": "string", "enum": ["n", "e", "s", "w"] } },
+        "main": { "type": "array", "items": { "type": "string", "enum": ["n", "e", "s", "w"] } },
+        "lanes": { "type": "integer", "minimum": 1 },
+        "vehicles": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "arm", "pos"],
+            "properties": {
+              "id": { "type": "string" },
+              "arm": { "type": "string", "enum": ["n", "e", "s", "w"] },
+              "pos": { "type": "number", "minimum": 0, "maximum": 1 },
+              "kind": { "type": "string", "enum": ["car", "truck"] },
+              "turn": { "type": "string", "enum": ["straight", "left", "right"] },
+              "fromYard": { "type": "boolean" },
+              "onCircle": { "type": "boolean" }
+            }
+          }
+        },
+        "trams": { "type": "array" },
+        "pedestrians": { "type": "array" },
+        "bikes": { "type": "array" },
+        "crossings": { "type": "array" },
+        "lights": { "type": "array" },
+        "signs": { "type": "array" },
+        "yard": { "type": "object" },
+        "caption": { "$ref": "#/$defs/localized" }
+      }
+    }
+  }
+}
